@@ -1,0 +1,120 @@
+{
+  "name": "Curriculum and Learning Management Division",
+  "shortName": "CLMD Region XII",
+  "agency": "Department of Education – Regional Office XII",
+  "region": "SOCCSKSARGEN",
+  "tagline": "Transforming Learning Through Quality Curriculum and Excellent Educational Leadership",
+  "vision": "A responsive and future-ready regional learning system where every learner in SOCCSKSARGEN receives relevant, inclusive, culture-responsive, and high-quality basic education.",
+  "mission": "CLMD provides curriculum leadership, learning resource stewardship, program management, assessment support, research, and technical assistance that empower Schools Division Offices and schools to improve learning outcomes.",
+  "contact": {
+    "email": "region12@deped.gov.ph",
+    "clmdEmail": "Official CLMD email to be confirmed",
+    "telephone": "(083) 228-8825 / 228-1893",
+    "clmdTelephone": "(083) 228-7829",
+    "address": "Regional Center, Brgy. Carpenter Hill, Koronadal City, South Cotabato, Philippines 9506",
+    "facebook": "https://www.facebook.com/DepEdTayoRegionXII",
+    "website": "https://depedroxii.org/"
+  },
+  "coreValues": [
+    {
+      "title": "Maka-Diyos",
+      "icon": "fa-hands-praying",
+      "text": "We lead with integrity, humility, and a deep sense of public purpose."
+    },
+    {
+      "title": "Maka-tao",
+      "icon": "fa-people-group",
+      "text": "We design inclusive learning experiences that respect every learner."
+    },
+    {
+      "title": "Makakalikasan",
+      "icon": "fa-seedling",
+      "text": "We cultivate environmental responsibility through curriculum and practice."
+    },
+    {
+      "title": "Makabansa",
+      "icon": "fa-flag",
+      "text": "We strengthen identity, citizenship, and love of country through education."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "ATTY. ALBERTO T. ESCOBARTE, CESO II",
+      "position": "Regional Director",
+      "image": "images/leadership/alberto-escobarte.jpg",
+      "message": "We advance learning excellence through responsive leadership, evidence-informed decisions, and shared accountability."
+    },
+    {
+      "name": "KATHRINE H. LOTILLA",
+      "position": "Director III · Assistant Regional Director",
+      "image": "images/leadership/kathrine-lotilla.jpg",
+      "message": "Our work connects policy with meaningful support for divisions, schools, teachers, and learners."
+    },
+    {
+      "name": "SHIENNA LYN L. ANTENOR, PhD",
+      "position": "Chief, Curriculum and Learning Management Division",
+      "image": "assets/images/program-holders/shienna-lyn-antenor.jpg",
+      "message": "CLMD champions relevant curriculum, quality resources, strong programs, and innovation that translate into better learning outcomes."
+    }
+  ],
+  "stats": [
+    {
+      "label": "Schools Division Offices",
+      "value": 8,
+      "suffix": "",
+      "icon": "fa-building"
+    },
+    {
+      "label": "Learning Areas & Programs",
+      "value": 16,
+      "suffix": "",
+      "icon": "fa-layer-group"
+    },
+    {
+      "label": "Regional Programs Monitored",
+      "value": 24,
+      "suffix": "+",
+      "icon": "fa-diagram-project"
+    },
+    {
+      "label": "Digital Resources Catalogued",
+      "value": 1248,
+      "suffix": "+",
+      "icon": "fa-book-open"
+    }
+  ],
+  "announcements": [
+    {
+      "date": "2026-07-30",
+      "tag": "RSPC / NSPC / Special Program in Journalism",
+      "title": "Post-Evaluation and Planning Workshop on RSPC Guidelines with Supervisors in Charge of Campus Journalism",
+      "text": "Official Regional Memorandum CLMD-2026-184 is now available in the CLMD memoranda repository.",
+      "memoNumber": "CLMD-2026-184",
+      "file": "assets/pdf/memoranda/clmd-2026-184.pdf"
+    },
+    {
+      "date": "2026-07-30",
+      "tag": "SNED Fun Day and SPEEd Program",
+      "title": "2026 SNED Fun Day Planning Conference Cum Orientation of Strengthening Parental Engagement in Education (SPEEd) Program",
+      "text": "Official Regional Memorandum CLMD-2026-183 is now available in the CLMD memoranda repository.",
+      "memoNumber": "CLMD-2026-183",
+      "file": "assets/pdf/memoranda/clmd-2026-183.pdf"
+    },
+    {
+      "date": "2026-07-30",
+      "tag": "ALS Program Management",
+      "title": "Meeting of Alternative Learning System (ALS) Focal Persons and Select Education Program Specialists in ALS II (EPSAs)",
+      "text": "Official Regional Memorandum CLMD-2026-182 is now available in the CLMD memoranda repository.",
+      "memoNumber": "CLMD-2026-182",
+      "file": "assets/pdf/memoranda/clmd-2026-182.pdf"
+    },
+    {
+      "date": "2026-07-31",
+      "tag": "Technical-Professional Track Electives",
+      "title": "Participation in the Development, Validation, Finalization, and Quality Assurance of Additional Priority Sectors Curriculum for Technical-Professional Track Electives",
+      "text": "Official Regional Memorandum CLMD-2026-181 is now available in the CLMD memoranda repository.",
+      "memoNumber": "CLMD-2026-181",
+      "file": "assets/pdf/memoranda/clmd-2026-181.pdf"
+    }
+  ]
+}

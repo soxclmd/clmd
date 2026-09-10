@@ -1,0 +1,44 @@
+name: Content Manifest
+
+# Keeps the shared content layer in sync:
+#   1. validates every content JSON the app consumes,
+#   2. regenerates assets/data/manifest.json with fresh hashes,
+#   3. commits the manifest so the Android app can detect the change.
+#
+# This is what makes GitHub the single source of truth:
+# edit content -> commit -> website updates AND app sees new content.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/data/**"
+      - "tools/build-content.py"
+      - ".github/workflows/content-manifest.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-manifest:
+    name: Validate content & update manifest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate JSON & regenerate manifest
+        run: python3 tools/build-content.py
+
+      - name: Commit updated manifest
+        run: |
+          git config user.name "SOXCLMD Content Bot"
+          git config user.email "actions@github.com"
+          if git diff --quiet assets/data/manifest.json; then
+            echo "manifest unchanged — nothing to commit"
+          else
+            git add assets/data/manifest.json
+            git commit -m "chore(content): refresh manifest [skip ci]"
+            git push
+          fi

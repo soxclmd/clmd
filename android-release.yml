@@ -1,0 +1,36 @@
+name: Release APK
+
+# Publishing a tag like v1.0.0 builds the APK and attaches it to a GitHub
+# Release — creating a public download link for teachers.
+on:
+  push:
+    tags: ["v*"]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: gradle/actions/setup-gradle@v3
+
+      - name: Build APK
+        working-directory: soxclmd-app
+        run: ./gradlew --no-daemon :app:assembleDebug
+
+      - name: Rename APK for distribution
+        run: mv soxclmd-app/app/build/outputs/apk/debug/app-debug.apk SOXCLMD.apk
+
+      - name: Create GitHub Release with APK
+        uses: softprops/action-gh-release@v2
+        with:
+          files: SOXCLMD.apk
+          generate_release_notes: true

@@ -1,0 +1,41 @@
+name: Android Build
+
+# Builds the SOXCLMD Android app whenever its source changes.
+# Produces an installable debug APK as a workflow artifact.
+# Nothing is published automatically — a human reviews and releases.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "soxclmd-app/**"
+      - ".github/workflows/android-build.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build APK
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: soxclmd-app
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Set up Gradle cache
+        uses: gradle/actions/setup-gradle@v3
+
+      - name: Build debug APK (direct-install build)
+        run: ./gradlew --no-daemon :app:assembleDebug
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: soxclmd-apk
+          path: soxclmd-app/app/build/outputs/apk/debug/*.apk
+          retention-days: 30
