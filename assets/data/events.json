@@ -1,0 +1,492 @@
+{
+ "version": "1",
+ "items": [
+  {
+   "startDate": "2026-08-10",
+   "endDate": "2026-09-10",
+   "title": "Test of Fundamental Academic Skills (TOFAS) Examination in SOCCSKSARGEN",
+   "venue": "SOCCSKSARGEN Region",
+   "audience": "Participating schools and learners identified in the memorandum",
+   "memoNumbers": [
+    "CLMD-2026-185"
+   ]
+  },
+  {
+   "startDate": "2026-08-25",
+   "endDate": "2026-08-28",
+   "title": "Orientation on the Kaagapay Program and Strengthening Collaboration Between Parents on Learners’ Rights and Protection",
+   "venue": "NEAP Region 10, Cagayan de Oro City",
+   "audience": "Three identified Region XII representatives from the Regional Office and SDO General Santos City",
+   "memoNumbers": [
+    "RM No. 010, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-08-26",
+   "endDate": "2026-08-27",
+   "title": "ELLN Program Updating Cum Education and Emergencies Policy Briefing",
+   "venue": "Final venue to be announced through a separate issuance",
+   "audience": "Identified regional and division ELLN and ADM personnel",
+   "memoNumbers": [
+    "CLMD-2026-189"
+   ]
+  },
+  {
+   "startDate": "2026-08-29",
+   "endDate": "2026-08-29",
+   "title": "Building Foundations with Khan Academy — Session 2: Getting Started with Khan Academy",
+   "venue": "Paraiso Verde, Koronadal City, South Cotabato",
+   "audience": "Regional and division Khan coordinators and teachers from new implementing schools",
+   "memoNumbers": [
+    "CLMD-2026-202",
+    "RM No. 048, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-08-31",
+   "endDate": "2026-09-02",
+   "title": "Instructional Supervision and Multigrade Pedagogy for School Heads and Supervisors — Mindanao",
+   "venue": "Within Davao City; official venue through a separate memorandum",
+   "audience": "School heads, supervisors, and identified multigrade focal personnel",
+   "memoNumbers": [
+    "CLMD-2026-209"
+   ]
+  },
+  {
+   "startDate": "2026-08-31",
+   "endDate": "2026-09-02",
+   "title": "Regional Training of Untrained ALS Teachers and Instructional Managers on the Revised ALS Curriculum",
+   "venue": "Within Koronadal City",
+   "audience": "Identified ALS teachers, instructional managers, and resource speakers",
+   "memoNumbers": [
+    "CLMD-2026-195",
+    "CLMD-2026-199"
+   ]
+  },
+  {
+   "startDate": "2026-09-01",
+   "endDate": "2026-09-03",
+   "title": "Validation Workshop on Proposed ALS Policy Guidelines — FELP Learning Assessment (Online)",
+   "venue": "Online via Microsoft Teams",
+   "audience": "Identified Region XII participants listed in the memorandum",
+   "memoNumbers": [
+    "RM No. 038, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-02",
+   "endDate": "2026-09-04",
+   "title": "SPSTEM Structured Pedagogy Development Workshop — Key Stage 2",
+   "venue": "NEAP, Marikina City",
+   "audience": "Key Stage 2 participants identified in the memorandum",
+   "memoNumbers": [
+    "RM No. 003, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-02",
+   "endDate": "2026-09-05",
+   "title": "Capacity-Building of National POPQUIZ Winners as POPDEV Advocates in Schools",
+   "venue": "Manila",
+   "audience": "National POPQUIZ winners identified in the memorandum",
+   "memoNumbers": [
+    "CLMD-2026-192"
+   ]
+  },
+  {
+   "startDate": "2026-09-03",
+   "endDate": "2026-09-06",
+   "title": "Regional Training on the Implementation of the FELP Financial Education Course",
+   "venue": "Viajera Cafe & Dine, Koronadal City",
+   "audience": "Identified ALS personnel and teachers from regional and division offices",
+   "memoNumbers": [
+    "CLMD-2026-194",
+    "RM No. 033, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-03",
+   "endDate": "2026-09-06",
+   "title": "Workshop on the Development of Interactive Video Lessons in Kindergarten and Araling Panlipunan",
+   "venue": "Habi Hotel, Koronadal City",
+   "audience": "230 identified Kindergarten and Araling Panlipunan developers and learning resource evaluators",
+   "memoNumbers": [
+    "RM No. 029, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-07",
+   "endDate": "2026-09-08",
+   "title": "Enhancement Seminar for ALS Teachers in LS2 and LS3 — Batch 1",
+   "venue": "Within Koronadal City",
+   "audience": "Identified ALS teachers and personnel for Batch 1",
+   "memoNumbers": [
+    "CLMD-2026-193"
+   ]
+  },
+  {
+   "startDate": "2026-09-07",
+   "endDate": "2026-09-11",
+   "title": "2026 Region-Based Training for Multigrade Teachers and School Heads",
+   "venue": "Habi Hotel, National Highway, Koronadal City",
+   "audience": "Identified multigrade teachers, school heads, and personnel per enclosure",
+   "memoNumbers": [
+    "RM No. 039, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-08",
+   "endDate": "2026-09-08",
+   "time": "3:00 p.m. to 5:00 p.m.",
+   "title": "Watch Party for the PISA 2025 Official Results Announcement",
+   "venue": "Fe Hidalgo Conference Hall, DepEd RO XII, and the nine PISA 2025 participating schools",
+   "audience": "PISA 2025 takers, teachers, officials, parents, and stakeholders",
+   "memoNumbers": [
+    "RM No. 049, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-09",
+   "endDate": "2026-09-10",
+   "title": "Enhancement Seminar for ALS Teachers in LS2 and LS3 — Batch 2",
+   "venue": "Within Koronadal City",
+   "audience": "Identified ALS teachers and personnel for Batch 2",
+   "memoNumbers": [
+    "CLMD-2026-193"
+   ]
+  },
+  {
+   "startDate": "2026-09-10",
+   "endDate": "2026-09-10",
+   "title": "Regional Training of Division Trainers on the Responsive Delivery and Localization of the Revised Grade 6 Music and Arts Curriculum — Pre-Workshop",
+   "venue": "Venue to be announced through a separate memorandum",
+   "audience": "Resource persons and Technical Working Group members",
+   "memoNumbers": [
+    "RM No. 004, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-10",
+   "endDate": "2026-09-11",
+   "time": "Opening program at 8:00 a.m. on September 10",
+   "title": "Capability Building for School Library In-Charge on Basic Library Services and Operations",
+   "venue": "DepEd NEAP XII, Quirino Avenue, General Santos City",
+   "audience": "Designated school library in-charge and identified participants",
+   "memoNumbers": [
+    "CLMD-2026-203"
+   ]
+  },
+  {
+   "startDate": "2026-09-10",
+   "endDate": "2026-09-12",
+   "title": "Orientation-Training on Multigrade Pedagogy for Teachers (Mindanao Cluster)",
+   "venue": "Apo View Hotel, Davao City",
+   "audience": "Identified multigrade teacher participants in the enclosure",
+   "memoNumbers": [
+    "RM No. 044, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-11",
+   "endDate": "2026-09-12",
+   "title": "Enhancement Seminar for ALS Master Teachers and EPSA on Instructional Supervision",
+   "venue": "Within Koronadal City",
+   "audience": "Identified ALS Master Teachers, EPSA, and regional personnel",
+   "memoNumbers": [
+    "CLMD-2026-190"
+   ]
+  },
+  {
+   "startDate": "2026-09-11",
+   "endDate": "2026-09-12",
+   "title": "Regional Training of Division Trainers on the Responsive Delivery and Localization of the Revised Grade 6 Music and Arts Curriculum — Training Proper",
+   "venue": "Venue to be announced through a separate memorandum",
+   "audience": "Division trainers and teacher participants identified in the enclosure",
+   "memoNumbers": [
+    "RM No. 004, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-14",
+   "endDate": "2026-09-16",
+   "title": "Multigrade Multilevel Learning Materials (MLM) in GMRC, MAPEH, EPP, Makabansa, AP and Filipino for Quarters 3-4 — Development Workshop",
+   "venue": "Punta Villa Resort, Sto. Niño Sur, Villa Arevalo District, Iloilo City",
+   "audience": "Identified Region XII participant-writers in the enclosure",
+   "memoNumbers": [
+    "RM No. 043, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-15",
+   "endDate": "2026-09-17",
+   "title": "Structured Pedagogy for Special Program in the Arts for Grades 9-10 — Development Workshop",
+   "venue": "Within Region IV-A; specific venue through a separate advisory",
+   "audience": "Identified SPA teacher-participants in the enclosure",
+   "memoNumbers": [
+    "RM No. 040, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-16",
+   "endDate": "2026-09-17",
+   "title": "2025 RSTF Post-Evaluation and Planning Conference of the 2026 Regional Science and Technology Fair",
+   "venue": "Kidapawan City; specific venue through a separate issuance",
+   "audience": "Division Science Education Program Supervisors, coordinators, and selected school heads",
+   "memoNumbers": [
+    "RM No. 046, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-16",
+   "endDate": "2026-09-18",
+   "title": "Validation Workshop on Proposed ALS Policy Guidelines — Micro-Certification (Online)",
+   "venue": "Online via Microsoft Teams",
+   "audience": "Identified Region XII participants listed in the memorandum",
+   "memoNumbers": [
+    "RM No. 038, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-17",
+   "endDate": "2026-09-19",
+   "title": "Multigrade Multilevel Learning Materials (MLM) in GMRC, MAPEH, EPP, Makabansa, AP and Filipino for Quarters 1-2 — Finalization Workshop",
+   "venue": "Punta Villa Resort, Sto. Niño Sur, Villa Arevalo District, Iloilo City",
+   "audience": "Identified Region XII participant-writers in the enclosure",
+   "memoNumbers": [
+    "RM No. 043, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-23",
+   "endDate": "2026-09-25",
+   "title": "Environmental Education Integration Lesson Guides — Development Workshop",
+   "venue": "Applied Nutrition Center, Cebu City",
+   "audience": "Identified Region XII EPS and school-head participants",
+   "memoNumbers": [
+    "RM No. 026, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-25",
+   "endDate": "2026-09-27",
+   "title": "Evaluation and Quality Assurance of Interactive Video Lessons in Kindergarten and Araling Panlipunan",
+   "venue": "Venue to be announced through a subsequent issuance",
+   "audience": "230 identified Kindergarten and Araling Panlipunan participants and learning resource evaluators",
+   "memoNumbers": [
+    "RM No. 045, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-28",
+   "endDate": "2026-09-30",
+   "title": "Structured Pedagogy for Special Program in the Arts for Grades 9-10 — Validation Workshop",
+   "venue": "Within Region IV-A; specific venue through a separate advisory",
+   "audience": "Identified SPA teacher-participants in the enclosure",
+   "memoNumbers": [
+    "RM No. 040, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-29",
+   "endDate": "2026-10-01",
+   "title": "SPSTEM Structured Pedagogy Development Workshop — Key Stage 3",
+   "venue": "Within Cebu; specific venue through a separate advisory",
+   "audience": "Key Stage 3 participants identified in the memorandum",
+   "memoNumbers": [
+    "RM No. 003, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-03",
+   "endDate": "2026-10-04",
+   "title": "Regional Training on Enhancing Teachers’ Expertise in Mathematical Manipulatives and Mathematics Investigation and Modelling (MIM) — Pre-Work Activity (Rescheduled)",
+   "venue": "Within South Cotabato; specific venue through a separate issuance",
+   "audience": "Identified teacher participants in the enclosure",
+   "memoNumbers": [
+    "RM No. 042, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-06",
+   "endDate": "2026-10-08",
+   "title": "Finalization Workshop on Proposed ALS Policy Guidelines — ALS Learning Assessment",
+   "venue": "Within Region IV-A; specific venue per memorandum",
+   "audience": "Identified Region XII participants listed in the memorandum",
+   "memoNumbers": [
+    "RM No. 038, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-10",
+   "endDate": "2026-10-10",
+   "title": "Building Foundations with Khan Academy — Session 3: Data-Driven Teaching",
+   "venue": "Online",
+   "audience": "Regional and division Khan coordinators and teachers from new implementing schools",
+   "memoNumbers": [
+    "CLMD-2026-202"
+   ]
+  },
+  {
+   "startDate": "2026-10-10",
+   "endDate": "2026-10-11",
+   "title": "Regional Training on Enhancing Teachers’ Expertise in Mathematical Manipulatives and Mathematics Investigation and Modelling (MIM) — Mathematics Manipulatives (Rescheduled)",
+   "venue": "Within South Cotabato; specific venue through a separate issuance",
+   "audience": "Identified teacher participants in the enclosure",
+   "memoNumbers": [
+    "RM No. 042, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-12",
+   "endDate": "2026-10-13",
+   "title": "Regional Training on Enhancing Teachers’ Expertise in Mathematical Manipulatives and Mathematics Investigation and Modelling (MIM) — Mathematics Investigation and Modelling (Rescheduled)",
+   "venue": "Within South Cotabato; specific venue through a separate issuance",
+   "audience": "Identified teacher participants in the enclosure",
+   "memoNumbers": [
+    "RM No. 042, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-13",
+   "endDate": "2026-10-15",
+   "title": "SPSTEM Structured Pedagogy Validation Workshop — Key Stage 2",
+   "venue": "NEAP, Marikina City",
+   "audience": "Key Stage 2 participants identified in the memorandum",
+   "memoNumbers": [
+    "RM No. 003, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-14",
+   "endDate": "2026-10-16",
+   "title": "Environmental Education Integration Lesson Guides — Validation Workshop",
+   "venue": "Teachers Camp, Baguio City",
+   "audience": "Identified Region XII EPS and school-head participants",
+   "memoNumbers": [
+    "RM No. 026, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-14",
+   "endDate": "2026-10-16",
+   "title": "Structured Pedagogy for Special Program in the Arts for Grades 9-10 — Finalization Workshop",
+   "venue": "Within Region IV-A; specific venue through a separate advisory",
+   "audience": "Identified SPA teacher-participants in the enclosure",
+   "memoNumbers": [
+    "RM No. 040, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-15",
+   "endDate": "2026-11-13",
+   "title": "Region-Led Division Rollout of the Kaagapay Program",
+   "venue": "Eight Schools Division Offices; training venues through separate memoranda",
+   "audience": "Sarangani, General Santos, South Cotabato, Koronadal, Sultan Kudarat, Tacurong, Kidapawan, and Cotabato divisions",
+   "memoNumbers": [
+    "CLMD-2026-187"
+   ]
+  },
+  {
+   "startDate": "2026-10-17",
+   "endDate": "2026-10-17",
+   "time": "8:00 a.m. to 5:00 p.m.; delegations at billeting quarters on October 16 (Day 0)",
+   "title": "2026 Regional Special Needs Education (SNED) Fun Day — “Together We Belong: Celebrating Abilities, Building Possibilities”",
+   "venue": "Hosted by Sultan Kudarat Division",
+   "audience": "Regional Office personnel and 75 participants per division, including SNED teachers and learners with disabilities",
+   "memoNumbers": [
+    "RM No. 032, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-20",
+   "endDate": "2026-10-22",
+   "title": "Finalization Workshop on Proposed ALS Policy Guidelines — Micro-Certification",
+   "venue": "Within Region IV-A; specific venue per memorandum",
+   "audience": "Identified Region XII participants listed in the memorandum",
+   "memoNumbers": [
+    "RM No. 038, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-20",
+   "endDate": "2026-10-22",
+   "title": "SPSTEM Structured Pedagogy Validation Workshop — Key Stage 3",
+   "venue": "Within Cebu; specific venue through a separate advisory",
+   "audience": "Key Stage 3 participants identified in the memorandum",
+   "memoNumbers": [
+    "RM No. 003, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-03",
+   "endDate": "2026-11-05",
+   "title": "Validation Workshop on Proposed ALS Policy Guidelines — Functional Literacy and Numeracy Program (Online)",
+   "venue": "Online via Microsoft Teams",
+   "audience": "Identified Region XII participants listed in the memorandum",
+   "memoNumbers": [
+    "RM No. 038, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-09",
+   "endDate": "2026-11-11",
+   "title": "SPSTEM Structured Pedagogy Finalization Workshop — Key Stage 2",
+   "venue": "NEAP, Marikina City",
+   "audience": "Key Stage 2 participants identified in the memorandum",
+   "memoNumbers": [
+    "RM No. 003, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-17",
+   "endDate": "2026-11-19",
+   "title": "SPSTEM Structured Pedagogy Finalization Workshop — Key Stage 3",
+   "venue": "Within Cebu; specific venue through a separate advisory",
+   "audience": "Key Stage 3 participants identified in the memorandum",
+   "memoNumbers": [
+    "RM No. 003, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-25",
+   "endDate": "2026-11-27",
+   "title": "Environmental Education Integration Lesson Guides — Finalization Workshop",
+   "venue": "DepEd Ecotech Center, Cebu City",
+   "audience": "Identified Region XII EPS and school-head participants",
+   "memoNumbers": [
+    "RM No. 026, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-12-01",
+   "endDate": "2026-12-03",
+   "title": "Finalization Workshop on Proposed ALS Policy Guidelines — Functional Literacy and Numeracy Program",
+   "venue": "Within Region IV-A; specific venue per memorandum",
+   "audience": "Identified Region XII participants listed in the memorandum",
+   "memoNumbers": [
+    "RM No. 038, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-12-10",
+   "endDate": "2026-12-11",
+   "time": "Registration and payment of division contestants due by November 6, 2026",
+   "title": "2026 Regional Mathematics Olympics",
+   "venue": "General Santos City; specific venue through a separate issuance",
+   "audience": "Qualified division contestants and coaches under the RMO guidelines",
+   "memoNumbers": [
+    "RM No. 047, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-12-12",
+   "endDate": "2026-12-13",
+   "title": "2026 Regional Science and Technology Fair",
+   "venue": "Kidapawan City",
+   "audience": "Official division participants described in the memorandum",
+   "memoNumbers": [
+    "CLMD-2026-198"
+   ]
+  }
+ ]
+}
