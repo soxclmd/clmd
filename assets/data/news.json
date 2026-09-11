@@ -2,6 +2,33 @@
  "version": "1",
  "items": [
   {
+   "id": "regional-training-multigrade-teachers",
+   "title": "Regional Training for Multigrade Teachers Strengthens Implementation of Revised K to 10 Curriculum",
+   "category": "Multigrade Education",
+   "date": "2026-09-11",
+   "tags": "multigrade teachers revised K to 10 curriculum training Koronadal Habi Hotel last-mile schools",
+   "summary": "DepEd Region XII is holding a five-day Regional Training for Multigrade Teachers (September 7-11, 2026, Habi Hotel, Koronadal City) to strengthen the implementation of the Revised K to 10 Curriculum in last-mile multigrade schools.",
+   "body": [
+    "The Department of Education (DepEd) Region XII is conducting a Regional Training for Multigrade Teachers from September 7 to 11, 2026, at Habi Hotel, City of Koronadal, aimed at strengthening teachers’ capacity to effectively implement the Revised K to 10 Curriculum in last-mile multigrade (MG) schools.",
+    "The five-day training provides multigrade teachers with opportunities to deepen their understanding of the revised curriculum and enhance their instructional practices in addressing the varied academic abilities, learning needs, values, interests, and learning styles of learners within a single classroom.",
+    "Through collaborative learning sessions, workshops, and contextualized instructional activities, the training equips teachers with practical strategies for managing multigrade classrooms and delivering meaningful, inclusive, and developmentally appropriate learning experiences.",
+    "The initiative underscores DepEd Region XII’s commitment to ensuring that learners in last-mile schools, regardless of location or learning context, receive quality education aligned with the goals of the Revised K to 10 Curriculum.",
+    "By strengthening the knowledge, skills, and confidence of multigrade teachers, the training seeks to empower them to create responsive classrooms where every learner can participate, progress, and thrive — Maria Isabel R. Cunanan, EPS CLMD."
+   ],
+   "images": [
+    "assets/data/news-img/mg-1.jpg",
+    "assets/data/news-img/mg-2.jpg",
+    "assets/data/news-img/mg-3.jpg",
+    "assets/data/news-img/mg-4.jpg"
+   ],
+   "imageAlts": [
+    "Multigrade teachers during the Regional Training at Habi Hotel",
+    "Multigrade teachers during the Regional Training at Habi Hotel",
+    "Multigrade teachers during the Regional Training at Habi Hotel",
+    "Multigrade teachers during the Regional Training at Habi Hotel"
+   ]
+  },
+  {
    "id": "deped-region-xii-strengthens-arabic-lang",
    "title": "DepEd Region XII Strengthens Arabic Language Instruction Through Two-Year Enhancement Program for Asatidz",
    "category": "Madrasah Education",
