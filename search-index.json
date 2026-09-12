@@ -1,668 +1,734 @@
 [
-  {
-    "title": "Home",
-    "url": "index.html",
-    "type": "Portal",
-    "keywords": "Home CLMD Region XII"
-  },
-  {
-    "title": "About CLMD",
-    "url": "about.html",
-    "type": "Page",
-    "keywords": "About CLMD CLMD Region XII"
-  },
-  {
-    "title": "Learning Areas",
-    "url": "learning-areas/index.html",
-    "type": "Page",
-    "keywords": "Learning Areas CLMD Region XII"
-  },
-  {
-    "title": "Programs",
-    "url": "programs/index.html",
-    "type": "Page",
-    "keywords": "Programs CLMD Region XII"
-  },
-  {
-    "title": "Region XII’s Performance in the National and International Arena",
-    "url": "analytics/index.html",
-    "type": "Analytics",
-    "keywords": "Region XII national international arena verified achievements awards recognition official records CLMD"
-  },
-  {
-    "title": "Learning Assessment Dashboard",
-    "url": "analytics/assessment.html",
-    "type": "Analytics",
-    "keywords": "CRLA RMA PHIL-IRI Key Stage 2 Key Stage 3 literacy assessment Region XII CLMD"
-  },
-  {
-    "title": "Download Center",
-    "url": "downloads/index.html",
-    "type": "Repository",
-    "keywords": "Download Center CLMD Region XII"
-  },
-  {
-    "title": "Regional Memoranda",
-    "url": "advisories/index.html",
-    "type": "Repository",
-    "keywords": "Official CLMD memoranda Region XII validated issuances"
-  },
-  {
-    "title": "Photo Gallery",
-    "url": "gallery/index.html",
-    "type": "Gallery",
-    "keywords": "Photo Gallery CLMD Region XII"
-  },
-  {
-    "title": "Contact CLMD",
-    "url": "contact.html",
-    "type": "Page",
-    "keywords": "Contact CLMD CLMD Region XII"
-  },
-  {
-    "title": "English",
-    "url": "learning-areas/english.html",
-    "type": "Learning Area",
-    "keywords": "Regional English Program Campus Journalism Reading and Literacy Shienna Lyn L. Antenor, PhD"
-  },
-  {
-    "title": "Mathematics",
-    "url": "learning-areas/math.html",
-    "type": "Learning Area",
-    "keywords": "Regional Mathematics Program Mathematics Olympics Numeracy Intervention Jay-ar S. Lipura, PhD"
-  },
-  {
-    "title": "Science & STE",
-    "url": "learning-areas/science.html",
-    "type": "Learning Area",
-    "keywords": "Science Special Program in Science, Technology and Engineering (STE) Regional Science and Technology Fair Dantly S. Villanueva, PhD"
-  },
-  {
-    "title": "Filipino & SPJ",
-    "url": "learning-areas/filipino.html",
-    "type": "Learning Area",
-    "keywords": "Filipino Special Program in Journalism (SPJ) Pambansang Buwan ng Wika Leonardo B. Mission, PhD"
-  },
-  {
-    "title": "Araling Panlipunan & Kindergarten",
-    "url": "learning-areas/ap.html",
-    "type": "Learning Area",
-    "keywords": "Araling Panlipunan Kindergarten Regional Kiddie Festival Jade T. Palomar, PhD, CAR"
-  },
-  {
-    "title": "Values Education & Multigrade",
-    "url": "learning-areas/values.html",
-    "type": "Learning Area",
-    "keywords": "Values Education Multigrade Education Homeroom Guidance Support Maria Isabel R. Cunanan, MAEd"
-  },
-  {
-    "title": "MAPEH · SPA · SPS · SPFL",
-    "url": "learning-areas/mapeh.html",
-    "type": "Learning Area",
-    "keywords": "MAPEH Special Program in the Arts (SPA) Special Program in Sports (SPS) Special Program in Foreign Language (SPFL) Ildefonso E. Libdan Jr., PhD"
-  },
-  {
-    "title": "Technology and Livelihood Education",
-    "url": "learning-areas/tle.html",
-    "type": "Learning Area",
-    "keywords": "Technology and Livelihood Education Technical-Vocational Education Strengthened Senior High School Crisanto M. Bulado, PhDU"
-  },
-  {
-    "title": "Special Curricular Programs",
-    "url": "learning-areas/scp.html",
-    "type": "Learning Area",
-    "keywords": "Special Program in the Arts (SPA) Special Program in Sports (SPS) Special Program in Foreign Language (SPFL) Other Special Curricular Programs Ildefonso E. Libdan Jr., PhD"
-  },
-  {
-    "title": "Inclusive Education",
-    "url": "learning-areas/inclusive.html",
-    "type": "Learning Area",
-    "keywords": "Inclusive Education Learner Support Universal Design for Learning Regional Inclusive Education Focal Team"
-  },
-  {
-    "title": "Special Needs Education (SNED)",
-    "url": "learning-areas/sned.html",
-    "type": "Learning Area",
-    "keywords": "Special Needs Education (SNED) SNED Fun Day Transition Support Cynthia B. Diaz, PhD"
-  },
-  {
-    "title": "Indigenous Peoples Education (IPED)",
-    "url": "learning-areas/iped.html",
-    "type": "Learning Area",
-    "keywords": "Indigenous Peoples Education (IPED) Regional Indigenous Peoples Day Community Partnership Regan B. Dagadas, PhD"
-  },
-  {
-    "title": "Madrasah Education",
-    "url": "learning-areas/madrasah.html",
-    "type": "Learning Area",
-    "keywords": "Madrasah Education Arabic Language and Islamic Values Education (ALIVE) Indigenous Peoples Education (IPED) Regan B. Dagadas, PhD"
-  },
-  {
-    "title": "Alternative Learning System",
-    "url": "learning-areas/als.html",
-    "type": "Learning Area",
-    "keywords": "Alternative Learning System (ALS) Accreditation and Equivalency Community Learning Centers Cynthia B. Diaz, PhD"
-  },
-  {
-    "title": "Strengthened Senior High School",
-    "url": "learning-areas/sshs.html",
-    "type": "Learning Area",
-    "keywords": "Strengthened Senior High School Career Pathways Work Immersion Crisanto M. Bulado, PhDU"
-  },
-  {
-    "title": "Learning Resources Management and Development System (LRMDS)",
-    "url": "learning-areas/lrmds.html",
-    "type": "Learning Area",
-    "keywords": "Learning Resources Management and Development System (LRMDS) Learning Resource Quality Assurance Digital Resource Management Arturo B. Tingson, MAEd"
-  },
-  {
-    "title": "National Festival of Talents",
-    "url": "programs/index.html#nft",
-    "type": "Program",
-    "keywords": "Talent Development accomplishments performance"
-  },
-  {
-    "title": "National Schools Press Conference",
-    "url": "programs/index.html#nspc",
-    "type": "Program",
-    "keywords": "Campus Journalism accomplishments performance"
-  },
-  {
-    "title": "Regional Science and Technology Fair",
-    "url": "programs/index.html#rstf",
-    "type": "Program",
-    "keywords": "Science & Innovation accomplishments performance"
-  },
-  {
-    "title": "Regional Mathematics Olympics",
-    "url": "programs/index.html#math-olympics",
-    "type": "Program",
-    "keywords": "Mathematics accomplishments performance"
-  },
-  {
-    "title": "Regional Kiddie Festival",
-    "url": "programs/index.html#kiddie-festival",
-    "type": "Program",
-    "keywords": "Early Learning accomplishments performance"
-  },
-  {
-    "title": "SNED Fun Day",
-    "url": "programs/index.html#sned-fun-day",
-    "type": "Program",
-    "keywords": "Inclusive Education accomplishments performance"
-  },
-  {
-    "title": "Regional TechVoc Day",
-    "url": "programs/index.html#techvoc-day",
-    "type": "Program",
-    "keywords": "TLE & TVL accomplishments performance"
-  },
-  {
-    "title": "Regional Indigenous Peoples Day",
-    "url": "programs/index.html#iped-day",
-    "type": "Program",
-    "keywords": "Culture & Inclusion accomplishments performance"
-  },
-  {
-    "title": "Search for the Most Functional Library",
-    "url": "programs/index.html#library-search",
-    "type": "Program",
-    "keywords": "Learning Resources accomplishments performance"
-  },
-  {
-    "title": "Gawad Teodora Alonzo Award",
-    "url": "programs/index.html#gawad-teodora",
-    "type": "Program",
-    "keywords": "Literacy accomplishments performance"
-  },
-  {
-    "title": "Shienna Lyn L. Antenor, PhD",
-    "url": "learning-areas/english.html",
-    "type": "Program Holder",
-    "keywords": "English Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Jay-ar S. Lipura, PhD",
-    "url": "learning-areas/math.html",
-    "type": "Program Holder",
-    "keywords": "Mathematics Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Dantly S. Villanueva, PhD",
-    "url": "learning-areas/science.html",
-    "type": "Program Holder",
-    "keywords": "Science Special Program in Science, Technology and Engineering (STE) Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Leonardo B. Mission, PhD",
-    "url": "learning-areas/filipino.html",
-    "type": "Program Holder",
-    "keywords": "Filipino Special Program in Journalism (SPJ) Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Jade T. Palomar, PhD, CAR",
-    "url": "learning-areas/ap.html",
-    "type": "Program Holder",
-    "keywords": "Araling Panlipunan Kindergarten Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Maria Isabel R. Cunanan, MAEd",
-    "url": "learning-areas/values.html",
-    "type": "Program Holder",
-    "keywords": "Values Education Multigrade Education Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Ildefonso E. Libdan Jr., PhD",
-    "url": "learning-areas/mapeh.html",
-    "type": "Program Holder",
-    "keywords": "MAPEH Special Program in the Arts (SPA) Special Program in Sports (SPS) Special Program in Foreign Language (SPFL) Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Crisanto M. Bulado, PhDU",
-    "url": "learning-areas/tle.html",
-    "type": "Program Holder",
-    "keywords": "Technology and Livelihood Education Strengthened Senior High School Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Arturo B. Tingson, MAEd",
-    "url": "learning-areas/lrmds.html",
-    "type": "Program Holder",
-    "keywords": "Learning Resources Management and Development System (LRMDS) Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Cynthia B. Diaz, PhD",
-    "url": "learning-areas/als.html",
-    "type": "Program Holder",
-    "keywords": "Alternative Learning System (ALS) Special Needs Education (SNED) Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Regan B. Dagadas, PhD",
-    "url": "learning-areas/madrasah.html",
-    "type": "Program Holder",
-    "keywords": "Madrasah Education Arabic Language and Islamic Values Education (ALIVE) Indigenous Peoples Education (IPED) Education Program Supervisor CLMD Region XII"
-  },
-  {
-    "title": "Inter-Region Audit",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Quality Assurance All Learning Areas Strengthening accountability and quality systems through collaborative inter-regional review. CLMD event photos"
-  },
-  {
-    "title": "National Festival of Talents Consultative Meeting",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Talent Development Special Curricular Programs Aligning teams and partners to create meaningful platforms for learner talent and excellence. CLMD event photos"
-  },
-  {
-    "title": "CLMD Outreach to Earthquake-Hit Areas",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Community Outreach Inclusive Education Extending care, resources, and solidarity to education communities affected by disasters. CLMD event photos"
-  },
-  {
-    "title": "CLMD Planning",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Strategic Planning All Learning Areas Turning evidence and shared priorities into responsive regional action. CLMD event photos"
-  },
-  {
-    "title": "Regional Trainings",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Professional Development All Learning Areas Building educator capacity for innovative, inclusive, and high-quality learning. CLMD event photos"
-  },
-  {
-    "title": "ARAL Program Monitoring",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Learning Recovery English and Mathematics Monitoring learning recovery and translating evidence into targeted learner support. CLMD event photos"
-  },
-  {
-    "title": "NFOT Feats",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Talent Development Special Curricular Programs Celebrating SOCCSKSARGEN talent, creativity, innovation, and regional excellence. CLMD event photos"
-  },
-  {
-    "title": "CLMD Outreach to Sama-Badjao Learners",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Inclusive Education IPED and Inclusive Education Advancing culture-responsive education and meaningful support for every learner and community. CLMD event photos"
-  },
-  {
-    "title": "Special Curricular Program Monitoring",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Program Monitoring Special Curricular Programs Strengthening specialized programs through direct field monitoring, dialogue, and coaching. CLMD event photos"
-  },
-  {
-    "title": "School Library Monitoring",
-    "url": "gallery/index.html",
-    "type": "Gallery Event",
-    "keywords": "Learning Resources LRMDS Promoting functional, welcoming, and resource-rich school libraries that nurture lifelong readers. CLMD event photos"
-  },
-  {
-    "title": "CRLA Region XII BoSY 2026–2027 Results",
-    "url": "analytics/assessment.html",
-    "type": "CRLA Results",
-    "keywords": "Comprehensive Rapid Literacy Assessment Region XII reading profiles Grade 1 Grade 2 Grade 3 fluency comprehension BoSY 2026 2027"
-  },
-  {
-    "title": "PHIL-IRI Key Stage 2 and Key Stage 3",
-    "url": "analytics/assessment.html",
-    "type": "PHIL-IRI Results",
-    "keywords": "Philippine Informal Reading Inventory PHIL-IRI Key Stage 2 Key Stage 3 Region XII"
-  },
-  {
-    "title": "Complete MATATAG Curriculum Guides — Kindergarten to Grade 10",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Collection Kindergarten to Grade 10 Official collection DepEd Office of the Undersecretary for Curriculum and Teaching Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "General Shaping Paper 2023",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Foundational Reference MATATAG K to 10 curriculum design PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Kindergarten Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Kindergarten PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Language Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grade 1 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Makabansa Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grade 1 direct guide; complete collection carries later coverage PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Reading and Literacy Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grade 1 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Mathematics Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grades 1, 4, and 7 direct guide; complete collection covers Grades 1–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Good Manners and Right Conduct and Values Education Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grades 1, 4, and 7 direct guide; complete collection covers Grades 1–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Araling Panlipunan Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 4–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG English Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 2–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Filipino Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Baitang 4 at 7 direct guide; complete collection covers Baitang 2–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Music and Arts Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 4–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Science Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 3–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG Physical Education and Health Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 4–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "MATATAG EPP/TLE Curriculum Guide",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Curriculum Guide Grades 4–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "Three-Term Budget of Work — Key Stage 1",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Budget of Work Kindergarten to Grade 3 Official collection DepEd institutional SharePoint via Project GRASP Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "Three-Term Budget of Work — Key Stage 2",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Budget of Work Grades 4–6 Official collection DepEd institutional SharePoint via Project GRASP Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "Three-Term Budget of Work — Key Stage 3",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Budget of Work Grades 7–10 Official collection DepEd institutional SharePoint via Project GRASP Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "Three-Term Budget of Work — Key Stage 4",
-    "url": "downloads/index.html",
-    "type": "Official Curriculum Resource",
-    "keywords": "Budget of Work Grades 11–12 Official collection DepEd institutional SharePoint via Project GRASP Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
-  },
-  {
-    "title": "CLMD-2026-202 · Building Foundations: Enhancing Early Literacy and Numeracy with Khan Academy Batch 3",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-10 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-204 · Participants in the Workshop for the Multigrade Multilevel Learning Materials (MLM) in GMRC, MAPEH, EPP, Makabansa, AP, and Filipino for Terms 1, 2 and 3",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-07 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-200 · Monitoring Activities and School Visit for SY 2026-2027",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-07 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-198 · 2026 Regional Science and Technology Fair",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-06 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-197 · Participants in the Development, Validation, and Finalization Workshops on Structured Pedagogy for Special Program in Science, Technology, Engineering, and Mathematics for Key Stage 2",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-06 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-192 · Conduct of Capacity-Building of National Population Quiz (POPQUIZ) Winners as Advocates for the Population and Development (POPDEV) Agenda in Schools",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-05 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-196 · Participation in the Multigrade Program in Philippine Education (MPPE) Convergence",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-04 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-194 · Regional Training on the Implementation of Functional Education and Literacy Program (FELP) Financial Education Course",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-04 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-193 · Enhancement Seminar of Alternative Learning System (ALS) Teachers in Teaching Scientific and Critical Thinking Skills (LS2) and Mathematical and Problem-Solving Skills (LS3)",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-04 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-191 · Change of Dates in the Post-Evaluation and Planning Workshop on RSPC Guidelines with Supervisors in Charge of Campus Journalism",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-04 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-199 · Regional Training on the Revised Alternative Learning System (ALS) Curriculum",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-03 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-195 · Regional Training of Untrained ALS Teachers and Instructional Managers (IM) on the Revised Alternative Learning System (ALS) Curriculum",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-03 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-190 · Enhancement Seminar of Alternative Learning System (ALS) Master Teachers and Education Program Specialists II (EPSA) on Instructional Supervision",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-03 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-186 · CLMD-CID Kumustahan on Curriculum Implementation and Learning Delivery",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-02 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-189 · Early Language Literacy and Numeracy (ELLN) Program Updating Cum Education and Emergencies (EiE) Policy Briefing",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-01 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-185 · Conduct of Test of Fundamental Academic Skills (TOFAS) Examination in SOCCSKSARGEN",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-08-01 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-188 · Regional Training Workshop on Responsive Delivery and Localization of Grade 6 Revised K-10 MAPEH Curriculum Competencies, Learning Resources and Assessment Tools",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-31 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-181 · Participation in the Development, Validation, Finalization, and Quality Assurance of Additional Priority Sectors Curriculum for Technical-Professional Track Electives",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-31 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-201 · Change of Participant in the Workshop on the Development of Manual Operations on Assessment and Grading System and Formative Assessment Instructional Resource for Key Stage 1",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-30 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-184 · Post-Evaluation and Planning Workshop on RSPC Guidelines with Supervisors in Charge of Campus Journalism",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-30 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-183 · 2026 SNED Fun Day Planning Conference Cum Orientation of Strengthening Parental Engagement in Education (SPEEd) Program",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-30 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-182 · Meeting of Alternative Learning System (ALS) Focal Persons and Select Education Program Specialists in ALS II (EPSAs)",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-30 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-180 · Participation in the Workshops on the Co-Development, Validation, and Finalization of the Policy on M&E Systems for RA 11650 Inter-Agency Programs",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-30 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-176 · Reproduction and Delivery of BASA Materials for Multigrade Schools",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-29 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "HRDD-CLMD-2026-029 · Conduct of Continuing Activities for the Regional Training on Advancing Learning Continuity Through the Dynamic Learning Program",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-29 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-175 · Adjustments to the CLMD-CID Assembly Cum Regional Convergence on the Implementation of Strengthened Senior High School Curriculum",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-28 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-179 · Sports, Health and Wellness Elective Offering Assessment",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-27 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-174 · Conduct of Workshop on the Conformance Review of Additional Course Kits for Functional Education Literacy Program (FELP) Course",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-27 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-187 · Region-Led Division Rollout of the Kaagapay Program",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-25 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-177 · Addendum to Regional Memorandum CLMD-2026-157 re: Post-Evaluation of 2026 Regional Festival and National Festival of Talents",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-25 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-172 · 2026 Regional Search for Most Functional School Libraries",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-25 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-170 · Virtual Orientation for ARAL Tutors, School Heads, and Focal Persons",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-24 official CLMD Region XII memorandum"
-  },
-  {
-    "title": "CLMD-2026-169 · Regional Training on Enhancing Teachers’ Expertise in Mathematical Manipulatives and Mathematics Investigation and Modelling (MIM)",
-    "url": "advisories/index.html",
-    "type": "Memorandum",
-    "keywords": "2026-07-11 official CLMD Region XII memorandum"
-  }
+ {
+  "title": "Home",
+  "url": "index.html",
+  "type": "Portal",
+  "keywords": "Home CLMD Region XII"
+ },
+ {
+  "title": "About CLMD",
+  "url": "about.html",
+  "type": "Page",
+  "keywords": "About CLMD CLMD Region XII"
+ },
+ {
+  "title": "Learning Areas",
+  "url": "learning-areas/index.html",
+  "type": "Page",
+  "keywords": "Learning Areas CLMD Region XII"
+ },
+ {
+  "title": "Programs",
+  "url": "programs/index.html",
+  "type": "Page",
+  "keywords": "Programs CLMD Region XII"
+ },
+ {
+  "title": "Region XII’s Performance in the National and International Arena",
+  "url": "analytics/index.html",
+  "type": "Analytics",
+  "keywords": "Region XII national international arena verified achievements awards recognition official records CLMD"
+ },
+ {
+  "title": "Learning Assessment Dashboard",
+  "url": "analytics/assessment.html",
+  "type": "Analytics",
+  "keywords": "CRLA RMA PHIL-IRI Key Stage 2 Key Stage 3 literacy assessment Region XII CLMD"
+ },
+ {
+  "title": "Download Center",
+  "url": "downloads/index.html",
+  "type": "Repository",
+  "keywords": "Download Center CLMD Region XII"
+ },
+ {
+  "title": "Regional Memoranda",
+  "url": "advisories/index.html",
+  "type": "Repository",
+  "keywords": "Official CLMD memoranda Region XII validated issuances"
+ },
+ {
+  "title": "Photo Gallery",
+  "url": "gallery/index.html",
+  "type": "Gallery",
+  "keywords": "Photo Gallery CLMD Region XII"
+ },
+ {
+  "title": "Contact CLMD",
+  "url": "contact.html",
+  "type": "Page",
+  "keywords": "Contact CLMD CLMD Region XII"
+ },
+ {
+  "title": "English",
+  "url": "learning-areas/english.html",
+  "type": "Learning Area",
+  "keywords": "Regional English Program Campus Journalism Reading and Literacy Shienna Lyn L. Antenor, PhD"
+ },
+ {
+  "title": "Mathematics",
+  "url": "learning-areas/math.html",
+  "type": "Learning Area",
+  "keywords": "Regional Mathematics Program Mathematics Olympics Numeracy Intervention Jay-ar S. Lipura, PhD"
+ },
+ {
+  "title": "Science & STE",
+  "url": "learning-areas/science.html",
+  "type": "Learning Area",
+  "keywords": "Science Special Program in Science, Technology and Engineering (STE) Regional Science and Technology Fair Dantly S. Villanueva, PhD"
+ },
+ {
+  "title": "Filipino & SPJ",
+  "url": "learning-areas/filipino.html",
+  "type": "Learning Area",
+  "keywords": "Filipino Special Program in Journalism (SPJ) Pambansang Buwan ng Wika Leonardo B. Mission, PhD"
+ },
+ {
+  "title": "Araling Panlipunan & Kindergarten",
+  "url": "learning-areas/ap.html",
+  "type": "Learning Area",
+  "keywords": "Araling Panlipunan Kindergarten Regional Kiddie Festival Jade T. Palomar, PhD, CAR"
+ },
+ {
+  "title": "Values Education & Multigrade",
+  "url": "learning-areas/values.html",
+  "type": "Learning Area",
+  "keywords": "Values Education Multigrade Education Homeroom Guidance Support Maria Isabel R. Cunanan, MAEd"
+ },
+ {
+  "title": "MAPEH · SPA · SPS · SPFL",
+  "url": "learning-areas/mapeh.html",
+  "type": "Learning Area",
+  "keywords": "MAPEH Special Program in the Arts (SPA) Special Program in Sports (SPS) Special Program in Foreign Language (SPFL) Ildefonso E. Libdan Jr., PhD"
+ },
+ {
+  "title": "Technology and Livelihood Education",
+  "url": "learning-areas/tle.html",
+  "type": "Learning Area",
+  "keywords": "Technology and Livelihood Education Technical-Vocational Education Strengthened Senior High School Crisanto M. Bulado, PhDU"
+ },
+ {
+  "title": "Special Curricular Programs",
+  "url": "learning-areas/scp.html",
+  "type": "Learning Area",
+  "keywords": "Special Program in the Arts (SPA) Special Program in Sports (SPS) Special Program in Foreign Language (SPFL) Other Special Curricular Programs Ildefonso E. Libdan Jr., PhD"
+ },
+ {
+  "title": "Inclusive Education",
+  "url": "learning-areas/inclusive.html",
+  "type": "Learning Area",
+  "keywords": "Inclusive Education Learner Support Universal Design for Learning Regional Inclusive Education Focal Team"
+ },
+ {
+  "title": "Special Needs Education (SNED)",
+  "url": "learning-areas/sned.html",
+  "type": "Learning Area",
+  "keywords": "Special Needs Education (SNED) SNED Fun Day Transition Support Cynthia B. Diaz, PhD"
+ },
+ {
+  "title": "Indigenous Peoples Education (IPED)",
+  "url": "learning-areas/iped.html",
+  "type": "Learning Area",
+  "keywords": "Indigenous Peoples Education (IPED) Regional Indigenous Peoples Day Community Partnership Regan B. Dagadas, PhD"
+ },
+ {
+  "title": "Madrasah Education",
+  "url": "learning-areas/madrasah.html",
+  "type": "Learning Area",
+  "keywords": "Madrasah Education Arabic Language and Islamic Values Education (ALIVE) Indigenous Peoples Education (IPED) Regan B. Dagadas, PhD"
+ },
+ {
+  "title": "Alternative Learning System",
+  "url": "learning-areas/als.html",
+  "type": "Learning Area",
+  "keywords": "Alternative Learning System (ALS) Accreditation and Equivalency Community Learning Centers Cynthia B. Diaz, PhD"
+ },
+ {
+  "title": "Strengthened Senior High School",
+  "url": "learning-areas/sshs.html",
+  "type": "Learning Area",
+  "keywords": "Strengthened Senior High School Career Pathways Work Immersion Crisanto M. Bulado, PhDU"
+ },
+ {
+  "title": "Learning Resources Management and Development System (LRMDS)",
+  "url": "learning-areas/lrmds.html",
+  "type": "Learning Area",
+  "keywords": "Learning Resources Management and Development System (LRMDS) Learning Resource Quality Assurance Digital Resource Management Arturo B. Tingson, MAEd"
+ },
+ {
+  "title": "National Festival of Talents",
+  "url": "programs/index.html#nft",
+  "type": "Program",
+  "keywords": "Talent Development accomplishments performance"
+ },
+ {
+  "title": "National Schools Press Conference",
+  "url": "programs/index.html#nspc",
+  "type": "Program",
+  "keywords": "Campus Journalism accomplishments performance"
+ },
+ {
+  "title": "Regional Science and Technology Fair",
+  "url": "programs/index.html#rstf",
+  "type": "Program",
+  "keywords": "Science & Innovation accomplishments performance"
+ },
+ {
+  "title": "Regional Mathematics Olympics",
+  "url": "programs/index.html#math-olympics",
+  "type": "Program",
+  "keywords": "Mathematics accomplishments performance"
+ },
+ {
+  "title": "Regional Kiddie Festival",
+  "url": "programs/index.html#kiddie-festival",
+  "type": "Program",
+  "keywords": "Early Learning accomplishments performance"
+ },
+ {
+  "title": "SNED Fun Day",
+  "url": "programs/index.html#sned-fun-day",
+  "type": "Program",
+  "keywords": "Inclusive Education accomplishments performance"
+ },
+ {
+  "title": "Regional TechVoc Day",
+  "url": "programs/index.html#techvoc-day",
+  "type": "Program",
+  "keywords": "TLE & TVL accomplishments performance"
+ },
+ {
+  "title": "Regional Indigenous Peoples Day",
+  "url": "programs/index.html#iped-day",
+  "type": "Program",
+  "keywords": "Culture & Inclusion accomplishments performance"
+ },
+ {
+  "title": "Search for the Most Functional Library",
+  "url": "programs/index.html#library-search",
+  "type": "Program",
+  "keywords": "Learning Resources accomplishments performance"
+ },
+ {
+  "title": "Gawad Teodora Alonzo Award",
+  "url": "programs/index.html#gawad-teodora",
+  "type": "Program",
+  "keywords": "Literacy accomplishments performance"
+ },
+ {
+  "title": "Shienna Lyn L. Antenor, PhD",
+  "url": "learning-areas/english.html",
+  "type": "Program Holder",
+  "keywords": "English Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Jay-ar S. Lipura, PhD",
+  "url": "learning-areas/math.html",
+  "type": "Program Holder",
+  "keywords": "Mathematics Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Dantly S. Villanueva, PhD",
+  "url": "learning-areas/science.html",
+  "type": "Program Holder",
+  "keywords": "Science Special Program in Science, Technology and Engineering (STE) Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Leonardo B. Mission, PhD",
+  "url": "learning-areas/filipino.html",
+  "type": "Program Holder",
+  "keywords": "Filipino Special Program in Journalism (SPJ) Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Jade T. Palomar, PhD, CAR",
+  "url": "learning-areas/ap.html",
+  "type": "Program Holder",
+  "keywords": "Araling Panlipunan Kindergarten Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Maria Isabel R. Cunanan, MAEd",
+  "url": "learning-areas/values.html",
+  "type": "Program Holder",
+  "keywords": "Values Education Multigrade Education Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Ildefonso E. Libdan Jr., PhD",
+  "url": "learning-areas/mapeh.html",
+  "type": "Program Holder",
+  "keywords": "MAPEH Special Program in the Arts (SPA) Special Program in Sports (SPS) Special Program in Foreign Language (SPFL) Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Crisanto M. Bulado, PhDU",
+  "url": "learning-areas/tle.html",
+  "type": "Program Holder",
+  "keywords": "Technology and Livelihood Education Strengthened Senior High School Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Arturo B. Tingson, MAEd",
+  "url": "learning-areas/lrmds.html",
+  "type": "Program Holder",
+  "keywords": "Learning Resources Management and Development System (LRMDS) Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Cynthia B. Diaz, PhD",
+  "url": "learning-areas/als.html",
+  "type": "Program Holder",
+  "keywords": "Alternative Learning System (ALS) Special Needs Education (SNED) Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Regan B. Dagadas, PhD",
+  "url": "learning-areas/madrasah.html",
+  "type": "Program Holder",
+  "keywords": "Madrasah Education Arabic Language and Islamic Values Education (ALIVE) Indigenous Peoples Education (IPED) Education Program Supervisor CLMD Region XII"
+ },
+ {
+  "title": "Inter-Region Audit",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Quality Assurance All Learning Areas Strengthening accountability and quality systems through collaborative inter-regional review. CLMD event photos"
+ },
+ {
+  "title": "National Festival of Talents Consultative Meeting",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Talent Development Special Curricular Programs Aligning teams and partners to create meaningful platforms for learner talent and excellence. CLMD event photos"
+ },
+ {
+  "title": "CLMD Outreach to Earthquake-Hit Areas",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Community Outreach Inclusive Education Extending care, resources, and solidarity to education communities affected by disasters. CLMD event photos"
+ },
+ {
+  "title": "CLMD Planning",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Strategic Planning All Learning Areas Turning evidence and shared priorities into responsive regional action. CLMD event photos"
+ },
+ {
+  "title": "Regional Trainings",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Professional Development All Learning Areas Building educator capacity for innovative, inclusive, and high-quality learning. CLMD event photos"
+ },
+ {
+  "title": "ARAL Program Monitoring",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Learning Recovery English and Mathematics Monitoring learning recovery and translating evidence into targeted learner support. CLMD event photos"
+ },
+ {
+  "title": "NFOT Feats",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Talent Development Special Curricular Programs Celebrating SOCCSKSARGEN talent, creativity, innovation, and regional excellence. CLMD event photos"
+ },
+ {
+  "title": "CLMD Outreach to Sama-Badjao Learners",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Inclusive Education IPED and Inclusive Education Advancing culture-responsive education and meaningful support for every learner and community. CLMD event photos"
+ },
+ {
+  "title": "Special Curricular Program Monitoring",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Program Monitoring Special Curricular Programs Strengthening specialized programs through direct field monitoring, dialogue, and coaching. CLMD event photos"
+ },
+ {
+  "title": "School Library Monitoring",
+  "url": "gallery/index.html",
+  "type": "Gallery Event",
+  "keywords": "Learning Resources LRMDS Promoting functional, welcoming, and resource-rich school libraries that nurture lifelong readers. CLMD event photos"
+ },
+ {
+  "title": "CRLA Region XII BoSY 2026–2027 Results",
+  "url": "analytics/assessment.html",
+  "type": "CRLA Results",
+  "keywords": "Comprehensive Rapid Literacy Assessment Region XII reading profiles Grade 1 Grade 2 Grade 3 fluency comprehension BoSY 2026 2027"
+ },
+ {
+  "title": "PHIL-IRI Key Stage 2 and Key Stage 3",
+  "url": "analytics/assessment.html",
+  "type": "PHIL-IRI Results",
+  "keywords": "Philippine Informal Reading Inventory PHIL-IRI Key Stage 2 Key Stage 3 Region XII"
+ },
+ {
+  "title": "Complete MATATAG Curriculum Guides — Kindergarten to Grade 10",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Collection Kindergarten to Grade 10 Official collection DepEd Office of the Undersecretary for Curriculum and Teaching Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "General Shaping Paper 2023",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Foundational Reference MATATAG K to 10 curriculum design PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Kindergarten Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Kindergarten PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Language Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grade 1 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Makabansa Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grade 1 direct guide; complete collection carries later coverage PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Reading and Literacy Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grade 1 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Mathematics Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grades 1, 4, and 7 direct guide; complete collection covers Grades 1–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Good Manners and Right Conduct and Values Education Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grades 1, 4, and 7 direct guide; complete collection covers Grades 1–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Araling Panlipunan Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 4–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG English Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 2–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Filipino Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Baitang 4 at 7 direct guide; complete collection covers Baitang 2–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Music and Arts Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 4–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Science Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 3–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG Physical Education and Health Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grades 4 and 7 direct guide; complete collection covers Grades 4–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "MATATAG EPP/TLE Curriculum Guide",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Curriculum Guide Grades 4–10 PDF Department of Education Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "Three-Term Budget of Work — Key Stage 1",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Budget of Work Kindergarten to Grade 3 Official collection DepEd institutional SharePoint via Project GRASP Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "Three-Term Budget of Work — Key Stage 2",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Budget of Work Grades 4–6 Official collection DepEd institutional SharePoint via Project GRASP Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "Three-Term Budget of Work — Key Stage 3",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Budget of Work Grades 7–10 Official collection DepEd institutional SharePoint via Project GRASP Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "Three-Term Budget of Work — Key Stage 4",
+  "url": "downloads/index.html",
+  "type": "Official Curriculum Resource",
+  "keywords": "Budget of Work Grades 11–12 Official collection DepEd institutional SharePoint via Project GRASP Revised K to 10 MATATAG Budget of Work curriculum guide official DepEd"
+ },
+ {
+  "title": "CLMD-2026-202 · Building Foundations: Enhancing Early Literacy and Numeracy with Khan Academy Batch 3",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-10 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-204 · Participants in the Workshop for the Multigrade Multilevel Learning Materials (MLM) in GMRC, MAPEH, EPP, Makabansa, AP, and Filipino for Terms 1, 2 and 3",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-07 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-200 · Monitoring Activities and School Visit for SY 2026-2027",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-07 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-198 · 2026 Regional Science and Technology Fair",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-06 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-197 · Participants in the Development, Validation, and Finalization Workshops on Structured Pedagogy for Special Program in Science, Technology, Engineering, and Mathematics for Key Stage 2",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-06 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-192 · Conduct of Capacity-Building of National Population Quiz (POPQUIZ) Winners as Advocates for the Population and Development (POPDEV) Agenda in Schools",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-05 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-196 · Participation in the Multigrade Program in Philippine Education (MPPE) Convergence",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-04 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-194 · Regional Training on the Implementation of Functional Education and Literacy Program (FELP) Financial Education Course",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-04 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-193 · Enhancement Seminar of Alternative Learning System (ALS) Teachers in Teaching Scientific and Critical Thinking Skills (LS2) and Mathematical and Problem-Solving Skills (LS3)",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-04 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-191 · Change of Dates in the Post-Evaluation and Planning Workshop on RSPC Guidelines with Supervisors in Charge of Campus Journalism",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-04 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-199 · Regional Training on the Revised Alternative Learning System (ALS) Curriculum",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-03 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-195 · Regional Training of Untrained ALS Teachers and Instructional Managers (IM) on the Revised Alternative Learning System (ALS) Curriculum",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-03 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-190 · Enhancement Seminar of Alternative Learning System (ALS) Master Teachers and Education Program Specialists II (EPSA) on Instructional Supervision",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-03 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-186 · CLMD-CID Kumustahan on Curriculum Implementation and Learning Delivery",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-02 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-189 · Early Language Literacy and Numeracy (ELLN) Program Updating Cum Education and Emergencies (EiE) Policy Briefing",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-01 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-185 · Conduct of Test of Fundamental Academic Skills (TOFAS) Examination in SOCCSKSARGEN",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-08-01 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-188 · Regional Training Workshop on Responsive Delivery and Localization of Grade 6 Revised K-10 MAPEH Curriculum Competencies, Learning Resources and Assessment Tools",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-31 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-181 · Participation in the Development, Validation, Finalization, and Quality Assurance of Additional Priority Sectors Curriculum for Technical-Professional Track Electives",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-31 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-201 · Change of Participant in the Workshop on the Development of Manual Operations on Assessment and Grading System and Formative Assessment Instructional Resource for Key Stage 1",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-30 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-184 · Post-Evaluation and Planning Workshop on RSPC Guidelines with Supervisors in Charge of Campus Journalism",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-30 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-183 · 2026 SNED Fun Day Planning Conference Cum Orientation of Strengthening Parental Engagement in Education (SPEEd) Program",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-30 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-182 · Meeting of Alternative Learning System (ALS) Focal Persons and Select Education Program Specialists in ALS II (EPSAs)",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-30 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-180 · Participation in the Workshops on the Co-Development, Validation, and Finalization of the Policy on M&E Systems for RA 11650 Inter-Agency Programs",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-30 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-176 · Reproduction and Delivery of BASA Materials for Multigrade Schools",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-29 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "HRDD-CLMD-2026-029 · Conduct of Continuing Activities for the Regional Training on Advancing Learning Continuity Through the Dynamic Learning Program",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-29 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-175 · Adjustments to the CLMD-CID Assembly Cum Regional Convergence on the Implementation of Strengthened Senior High School Curriculum",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-28 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-179 · Sports, Health and Wellness Elective Offering Assessment",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-27 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-174 · Conduct of Workshop on the Conformance Review of Additional Course Kits for Functional Education Literacy Program (FELP) Course",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-27 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-187 · Region-Led Division Rollout of the Kaagapay Program",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-25 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-177 · Addendum to Regional Memorandum CLMD-2026-157 re: Post-Evaluation of 2026 Regional Festival and National Festival of Talents",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-25 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-172 · 2026 Regional Search for Most Functional School Libraries",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-25 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-170 · Virtual Orientation for ARAL Tutors, School Heads, and Focal Persons",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-24 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-169 · Regional Training on Enhancing Teachers’ Expertise in Mathematical Manipulatives and Mathematics Investigation and Modelling (MIM)",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-07-11 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "Regional Training for Multigrade Teachers Strengthens Implementation of Revised K to 10 Curriculum",
+  "url": "index.html",
+  "type": "Story",
+  "keywords": "multigrade teachers regional training revised K to 10 curriculum Habi Hotel Koronadal last-mile"
+ },
+ {
+  "title": "CLMD-2026-206 · Onsite Validation of Cultural Heritage Learning Centers (CHLC) of IPEd Implementing Schools in Kidapawan City SDO",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-04 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "CLMD-2026-211 · Series of Workshops for the Finalization of Alternative Learning System (ALS) Micro-Certification Assessment Tools for the Additional Life Skills",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-05 official CLMD Region XII memorandum"
+ },
+ {
+  "title": "RM No. 050, s. 2026 · Reiteration of the Mandatory Adoption and Implementation of DepEd Order No. 015, S. 2026 (Revised Guidelines on Classroom Assessment, Grading System, and Awards and Recognition for the K to 12 Basic Education Program)",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-02 official RM Region XII memorandum"
+ },
+ {
+  "title": "RM No. 063, s. 2026 · Participation in the Workshop on the Evaluation of the Revised ALS Senior High School Curriculum",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-01 official RM Region XII memorandum"
+ },
+ {
+  "title": "RM No. 064, s. 2026 · Participation in the Workshop on Environmental Education Integration Lesson Guides for Values Education (Validation Workshop)",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-06 official RM Region XII memorandum"
+ },
+ {
+  "title": "RM No. 065, s. 2026 · Participation of the Department of Education in the Manila International Book Fair (MIBF) 2026",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-02 official RM Region XII memorandum"
+ },
+ {
+  "title": "RM No. 066, s. 2026 · Change of Schedule of the Regional Evaluation for Most Functional School Libraries",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-04 official RM Region XII memorandum"
+ },
+ {
+  "title": "RM No. 067, s. 2026 · Regional Training on Sci-Katutubo: Integrating Science Process Skills (SPS) with Indigenous Knowledge, Systems and Practices (IKSP)",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-04 official RM Region XII memorandum"
+ },
+ {
+  "title": "RM No. 068, s. 2026 · Regional Orientation on the Language Identification Tool (LIT) School-Based Forms and National Dashboard for Key Stage 1 Learners",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-04 official RM Region XII memorandum"
+ },
+ {
+  "title": "RM No. 070, s. 2026 · Additional Participants for the Development of Interactive Video Lessons in Kindergarten and Araling Panlipunan",
+  "url": "advisories/index.html",
+  "type": "Memorandum",
+  "keywords": "2026-09-05 official RM Region XII memorandum"
+ }
 ]

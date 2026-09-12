@@ -1,43 +1,43 @@
 {
-  "content_version": "2026.09.10.0427",
-  "last_updated": "2026-09-10",
-  "minimum_app_version": "1.0.0",
-  "maintenance_mode": false,
-  "files": {
-    "news": {
-      "path": "assets/data/news.json",
-      "sha256": "b0fdc7cfbe47dcdaec7031f56b48d9a48bd61061343db3a520637f88a0b2dfbd",
-      "bytes": 30730
-    },
-    "events": {
-      "path": "assets/data/events.json",
-      "sha256": "240b9c1091b83c4555b97c9ea5a37f4309bfd32c18ca923aa1be47cb4bcac0cc",
-      "bytes": 17851
-    },
-    "memoranda": {
-      "path": "assets/data/advisories.json",
-      "sha256": "ed23c69518ed902087ec2646abab44da1660186fb9a1747e55720c90a078e224",
-      "bytes": 18352
-    },
-    "learningAreas": {
-      "path": "assets/data/learning-areas.json",
-      "sha256": "48fce4c8bc1ade1cbb9d7a6c0f77455d99425c893c78b65f5df3d28e168e1cc1",
-      "bytes": 36237
-    },
-    "resources": {
-      "path": "assets/data/downloads.json",
-      "sha256": "16cdb9c69fab62119ace8e9317c8c00938e4eb681d6178340b09d1d99c8a3a41",
-      "bytes": 4610
-    },
-    "site": {
-      "path": "assets/data/site.json",
-      "sha256": "11a36ebd166901975677281a1ae602f3e1b7b72851a904f53c8b935e72e5fd9f",
-      "bytes": 5066
-    },
-    "searchIndex": {
-      "path": "assets/data/search-index.json",
-      "sha256": "d230ab864dd783a12332e4f5cf586bbb68a77e8ef4c2910b08ef49d8a925f4aa",
-      "bytes": 29132
-    }
+ "content_version": "2026.09.12.0900",
+ "last_updated": "2026-09-12",
+ "minimum_app_version": "1.0.0",
+ "maintenance_mode": false,
+ "files": {
+  "news": {
+   "path": "assets/data/news.json",
+   "sha256": "b0fdc7cfbe47dcdaec7031f56b48d9a48bd61061343db3a520637f88a0b2dfbd",
+   "bytes": 30730
+  },
+  "events": {
+   "path": "assets/data/events.json",
+   "sha256": "a9acc53be5096379a718233f9aba3932d1c8f22b23d978671d41d87b258a7ae3",
+   "bytes": 22001
+  },
+  "memoranda": {
+   "path": "assets/data/advisories.json",
+   "sha256": "d7912923a5b80b7cbce79b372036a2de589a60cb2089cf7f25c0fb82c8a088f0",
+   "bytes": 23149
+  },
+  "learningAreas": {
+   "path": "assets/data/learning-areas.json",
+   "sha256": "48fce4c8bc1ade1cbb9d7a6c0f77455d99425c893c78b65f5df3d28e168e1cc1",
+   "bytes": 36237
+  },
+  "resources": {
+   "path": "assets/data/downloads.json",
+   "sha256": "16cdb9c69fab62119ace8e9317c8c00938e4eb681d6178340b09d1d99c8a3a41",
+   "bytes": 4610
+  },
+  "site": {
+   "path": "assets/data/site.json",
+   "sha256": "11a36ebd166901975677281a1ae602f3e1b7b72851a904f53c8b935e72e5fd9f",
+   "bytes": 5066
+  },
+  "searchIndex": {
+   "path": "assets/data/search-index.json",
+   "sha256": "27e557028532efa9ad50d416efa7b35412b2f86146157f3405d16b81bdc8e1b7",
+   "bytes": 31170
   }
+ }
 }
