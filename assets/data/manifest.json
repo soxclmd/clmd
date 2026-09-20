@@ -1,13 +1,13 @@
 {
- "content_version": "2026.09.20.0800",
+ "content_version": "2026.09.20.0900",
  "last_updated": "2026-09-20",
  "minimum_app_version": "1.0.0",
  "maintenance_mode": false,
  "files": {
   "news": {
    "path": "assets/data/news.json",
-   "sha256": "301ff548547a29946743cf932420bb8bde45eaabb463d4946ed36051df0d3e1e",
-   "bytes": 39230
+   "sha256": "02c2074bf03cc3eb3cb6b18e59e2c7591bb5ef11516c618d6baeda3ce0312bad",
+   "bytes": 42375
   },
   "events": {
    "path": "assets/data/events.json",
@@ -36,8 +36,8 @@
   },
   "searchIndex": {
    "path": "assets/data/search-index.json",
-   "sha256": "6f73ceaaccddc3acfe650a84750c416441e29918acdce8a13d755cc854d2ba14",
-   "bytes": 31668
+   "sha256": "ff6fd7ecee296c0dad5d8b2958256def5549d576484cdb29ba4f9d816c020ae9",
+   "bytes": 31898
   }
  }
 }
