@@ -249,22 +249,34 @@
   },
   {
    "startDate": "2026-09-15",
-   "endDate": "2026-09-29",
+   "endDate": "2026-09-30",
    "title": "2026 Regional Search for Most Functional School Libraries — Regional Evaluation",
-   "venue": "Evaluated schools across the region (rescheduled per RM No. 066; itinerary in the memorandum)",
+   "venue": "Evaluated schools across the region — General Santos City: Sept 25; Sarangani: Sept 30 (adjusted per CLMD-2026-212)",
    "audience": "Evaluation Teams A & B and concerned RO personnel",
    "memoNumbers": [
-    "RM No. 066, s. 2026"
+    "RM No. 066, s. 2026",
+    "CLMD-2026-212"
+   ]
+  },
+  {
+   "startDate": "2026-09-15",
+   "endDate": "2026-09-17",
+   "title": "IPEd Program Evaluation — Capacity Building Workshop (Phase 1) on Monitoring and Evaluation for IPEd Focal Persons",
+   "venue": "Metro Manila",
+   "audience": "IPEd focal persons from RO-CLMD and Sarangani, Kidapawan City, Cotabato, and Sultan Kudarat SDOs",
+   "memoNumbers": [
+    "RM No. 090, s. 2026"
    ]
   },
   {
    "startDate": "2026-09-16",
    "endDate": "2026-09-17",
    "title": "2025 RSTF Post-Evaluation and Planning Conference of the 2026 Regional Science and Technology Fair",
-   "venue": "Kidapawan City; specific venue through a separate issuance",
+   "venue": "Park-Lay Suites, Kidapawan City",
    "audience": "Division Science Education Program Supervisors, coordinators, and selected school heads",
    "memoNumbers": [
-    "RM No. 046, s. 2026"
+    "RM No. 046, s. 2026",
+    "RM No. 114, s. 2026"
    ]
   },
   {
@@ -285,6 +297,26 @@
    "audience": "Identified Region XII participant-writers in the enclosure",
    "memoNumbers": [
     "RM No. 043, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-17",
+   "endDate": "2026-10-08",
+   "title": "PISA 2025 National Report Launch and PISA 2025 National Conversations Series",
+   "venue": "20th Floor, Bulwagan ng Karunungan, DepEd Techzone Building, Makati City (every Thursday, 9:00 a.m.–12:00 noon)",
+   "audience": "CLMD and ESSD concerned personnel (per session assignments in the memorandum)",
+   "memoNumbers": [
+    "CLMD-2026-226"
+   ]
+  },
+  {
+   "startDate": "2026-09-17",
+   "endDate": "2026-10-23",
+   "title": "Language Mapping for Key Stage 1 Using the Language Identification Tool (LIT) — Severely Earthquake-Affected Schools",
+   "venue": "Public and private elementary schools across the region (at a time that will not disrupt regular classes)",
+   "audience": "KS1 learners, school heads, division ELLN focal persons, and PSDSs",
+   "memoNumbers": [
+    "RM No. 084, s. 2026"
    ]
   },
   {
@@ -315,6 +347,16 @@
    "audience": "Identified Region XII EPS and school-head participants",
    "memoNumbers": [
     "RM No. 026, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-24",
+   "endDate": "2026-09-24",
+   "title": "Consultative Meeting for the 2026 Regional Festival of Talents with the Schools Division of South Cotabato",
+   "venue": "To be announced (8:30 a.m.)",
+   "audience": "RFOT event managers and SDO South Cotabato RFOT TWG (see memorandum)",
+   "memoNumbers": [
+    "RM No. 099, s. 2026"
    ]
   },
   {
@@ -375,6 +417,16 @@
    "audience": "Identified Region XII participants listed in the memorandum",
    "memoNumbers": [
     "RM No. 038, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-06",
+   "endDate": "2026-10-08",
+   "title": "IPEd Program Evaluation — Capacity Building Session (Phase 2) on Monitoring and Evaluation for IPEd Focal Persons",
+   "venue": "Metro Manila",
+   "audience": "IPEd focal persons from General Santos City, South Cotabato, Koronadal City, and Tacurong SDOs",
+   "memoNumbers": [
+    "RM No. 090, s. 2026"
    ]
   },
   {
@@ -519,6 +571,26 @@
    ]
   },
   {
+   "startDate": "2026-10-20",
+   "endDate": "2026-10-20",
+   "title": "Regional Consultation on the Proposed Contextualized Policy Guidelines in Learning Continuity During Disasters and Emergencies in SOCCSKSARGEN",
+   "venue": "To be announced (via separate issuance)",
+   "audience": "Key stakeholders — Schools Division Superintendents and concerned offices",
+   "memoNumbers": [
+    "RM No. 083, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-24",
+   "endDate": "2026-10-25",
+   "title": "Unified Slide Decks for MAPEH Key Stages 2 and 3 — Development Workshop",
+   "venue": "Within Koronadal (exact venue via separate advisory)",
+   "audience": "MAPEH teacher-writers from the 8 SDOs (see Enclosures)",
+   "memoNumbers": [
+    "RM No. 096, s. 2026"
+   ]
+  },
+  {
    "startDate": "2026-11-03",
    "endDate": "2026-11-05",
    "title": "Validation Workshop on Proposed ALS Policy Guidelines — Functional Literacy and Numeracy Program (Online)",
@@ -529,6 +601,16 @@
    ]
   },
   {
+   "startDate": "2026-11-07",
+   "endDate": "2026-11-08",
+   "title": "Unified Slide Decks for MAPEH Key Stages 2 and 3 — Validation Workshop",
+   "venue": "Within Koronadal (exact venue via separate advisory)",
+   "audience": "MAPEH teacher-writers from the 8 SDOs (see Enclosures)",
+   "memoNumbers": [
+    "RM No. 096, s. 2026"
+   ]
+  },
+  {
    "startDate": "2026-11-09",
    "endDate": "2026-11-11",
    "title": "SPSTEM Structured Pedagogy Finalization Workshop — Key Stage 2",
@@ -536,6 +618,26 @@
    "audience": "Key Stage 2 participants identified in the memorandum",
    "memoNumbers": [
     "RM No. 003, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-14",
+   "endDate": "2026-11-14",
+   "title": "2026 Regional Alternative Learning System (ALS) Day — “A Fun Day without Borders for ALS”",
+   "venue": "Tulunan National High School, Tulunan, Cotabato (7:00 a.m.–5:00 p.m.)",
+   "audience": "ALS learners, teachers, and coaches from all SDOs (ALS Expo, Spelling Bee, Hip-Hop Dance, Spoken Poetry, Mr. & Ms. SOX ALS)",
+   "memoNumbers": [
+    "RM No. 095, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-14",
+   "endDate": "2026-11-15",
+   "title": "Unified Slide Decks for MAPEH Key Stages 2 and 3 — Finalization Workshop",
+   "venue": "General Santos City",
+   "audience": "MAPEH teacher-writers from the 8 SDOs (see Enclosures)",
+   "memoNumbers": [
+    "RM No. 096, s. 2026"
    ]
   },
   {
@@ -576,6 +678,16 @@
    "audience": "Identified Region XII participants listed in the memorandum",
    "memoNumbers": [
     "RM No. 038, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-12-07",
+   "endDate": "2026-12-09",
+   "title": "2026 Regional Festival of Talents (RFOT)",
+   "venue": "Polomolok, South Cotabato (hosted by SDO South Cotabato)",
+   "audience": "Qualified learners from public and private schools, ALS, IPEd, SNEd, and Madrasah Education Program",
+   "memoNumbers": [
+    "RM No. 100, s. 2026"
    ]
   },
   {
