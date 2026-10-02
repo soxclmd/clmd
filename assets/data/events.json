@@ -249,13 +249,14 @@
   },
   {
    "startDate": "2026-09-15",
-   "endDate": "2026-09-30",
+   "endDate": "2026-10-09",
    "title": "2026 Regional Search for Most Functional School Libraries — Regional Evaluation",
-   "venue": "Evaluated schools across the region — General Santos City: Sept 25; Sarangani: Sept 30 (adjusted per CLMD-2026-212)",
+   "venue": "Evaluated schools across the region — General Santos City: Sept 25; Sarangani: Oct 7; Sultan Kudarat: Oct 8-9 (adjusted per CLMD-2026-212 and CLMD-2026-217)",
    "audience": "Evaluation Teams A & B and concerned RO personnel",
    "memoNumbers": [
     "RM No. 066, s. 2026",
-    "CLMD-2026-212"
+    "CLMD-2026-212",
+    "CLMD-2026-217"
    ]
   },
   {
@@ -360,16 +361,6 @@
    ]
   },
   {
-   "startDate": "2026-09-25",
-   "endDate": "2026-09-27",
-   "title": "Evaluation and Quality Assurance of Interactive Video Lessons in Kindergarten and Araling Panlipunan",
-   "venue": "Venue to be announced through a subsequent issuance",
-   "audience": "230 identified Kindergarten and Araling Panlipunan participants and learning resource evaluators",
-   "memoNumbers": [
-    "RM No. 045, s. 2026"
-   ]
-  },
-  {
    "startDate": "2026-09-28",
    "endDate": "2026-09-30",
    "title": "Structured Pedagogy for Special Program in the Arts for Grades 9-10 — Validation Workshop",
@@ -377,6 +368,16 @@
    "audience": "Identified SPA teacher-participants in the enclosure",
    "memoNumbers": [
     "RM No. 040, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-09-28",
+   "endDate": "2026-10-02",
+   "title": "Middle-of-School-Year (MOSY) Assessment — ARAL Program for SY 2026-2027",
+   "venue": "All public elementary and secondary schools across Region XII (administered during ARAL time or after the instructional period)",
+   "audience": "All Grade 1 learners; Grades 2-10 learners identified as eligible for the ARAL Program (based on BOSY results)",
+   "memoNumbers": [
+    "RM No. 131, s. 2026"
    ]
   },
   {
@@ -400,6 +401,57 @@
    ]
   },
   {
+   "startDate": "2026-09-29",
+   "endDate": "2026-09-30",
+   "title": "Capability-Building for the Enhanced Implementation of the Moral Recovery Program",
+   "venue": "To be announced (via separate memorandum)",
+   "audience": "Select Values Education Supervisors, District Supervisors, and School Principals — General Santos City and Sarangani SDOs",
+   "memoNumbers": [
+    "CLMD-2026-214"
+   ]
+  },
+  {
+   "startDate": "2026-09-29",
+   "endDate": "2026-10-01",
+   "title": "Workshop on the Development/Updating of the Research Agenda for the Alternative Learning System (RAFA)",
+   "venue": "Hacienda Gracia Resort and Hotel, Lubao, Pampanga",
+   "audience": "Regional participant — EPSA, General Santos City SDO (per memorandum)",
+   "memoNumbers": [
+    "CLMD-2026-215"
+   ]
+  },
+  {
+   "startDate": "2026-09-30",
+   "endDate": "2026-10-02",
+   "title": "Special Needs Education (SNED) Forum — “SNED 2.0: Working Together, Delivering Better”",
+   "venue": "Within the National Capital Region (specific venue via separate advisory)",
+   "audience": "RD, ARD, RO/CLMD personnel and SDO participants (11 from Region XII; see memorandum)",
+   "memoNumbers": [
+    "RM No. 145, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-02",
+   "endDate": "2026-10-03",
+   "title": "3rd Quarter CLMD Professional Learning Community (RPLC) Session",
+   "venue": "Punta Isla, Lake Sebu, South Cotabato (rescheduled from October 1-2 per CLMD-2026-240)",
+   "audience": "CLMD Chief and all CLMD personnel",
+   "memoNumbers": [
+    "CLMD-2026-240"
+   ]
+  },
+  {
+   "startDate": "2026-10-02",
+   "endDate": "2026-10-04",
+   "title": "Evaluation and Quality Assurance of Interactive Video Lessons in Kindergarten and Araling Panlipunan",
+   "venue": "Viajera Hotel, Koronadal City (PMT and evaluators report Oct 2; teacher-developers report Oct 3 — rescheduled per RM No. 151)",
+   "audience": "Program Management Team, evaluators, and teacher-developers (see memorandum)",
+   "memoNumbers": [
+    "RM No. 045, s. 2026",
+    "RM No. 151, s. 2026"
+   ]
+  },
+  {
    "startDate": "2026-10-03",
    "endDate": "2026-10-04",
    "title": "Regional Training on Enhancing Teachers’ Expertise in Mathematical Manipulatives and Mathematics Investigation and Modelling (MIM) — Pre-Work Activity (Rescheduled)",
@@ -407,6 +459,16 @@
    "audience": "Identified teacher participants in the enclosure",
    "memoNumbers": [
     "RM No. 042, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-05",
+   "endDate": "2026-10-07",
+   "title": "Tiered ARAL Storybooks and Numeracy Worksheets for Differentiated Instruction — Development Workshop",
+   "venue": "DepEd Ecotech Center, Cebu City",
+   "audience": "Writer and illustrator school heads from South Cotabato, General Santos, Sarangani, and Cotabato SDOs",
+   "memoNumbers": [
+    "CLMD-2026-216"
    ]
   },
   {
@@ -427,6 +489,16 @@
    "audience": "IPEd focal persons from General Santos City, South Cotabato, Koronadal City, and Tacurong SDOs",
    "memoNumbers": [
     "RM No. 090, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-06",
+   "endDate": "2026-10-08",
+   "title": "Program Implementation Review for Madrasah Education Program Implementers and Private Madaris Convergence Workshop",
+   "venue": "Water World Hotel, Cebu City",
+   "audience": "Regional and division MEP coordinators and private madrasah representatives (see memorandum)",
+   "memoNumbers": [
+    "RM No. 153, s. 2026"
    ]
   },
   {
@@ -581,6 +653,16 @@
    ]
   },
   {
+   "startDate": "2026-10-21",
+   "endDate": "2026-10-22",
+   "title": "Madrasah Education Program — Mid-Year Program Implementation Review Workshop",
+   "venue": "Within South Cotabato or General Santos City (specific venue via separate memorandum)",
+   "audience": "3 participants per SDO (Division MEP Coordinator and school heads) plus 6 RO/CLMD EPS",
+   "memoNumbers": [
+    "RM No. 154, s. 2026"
+   ]
+  },
+  {
    "startDate": "2026-10-24",
    "endDate": "2026-10-25",
    "title": "Unified Slide Decks for MAPEH Key Stages 2 and 3 — Development Workshop",
@@ -588,6 +670,46 @@
    "audience": "MAPEH teacher-writers from the 8 SDOs (see Enclosures)",
    "memoNumbers": [
     "RM No. 096, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-24",
+   "endDate": "2026-10-25",
+   "title": "Mathematics Lesson Exemplars, Instructional Slides, and Test Items — Prework Activity",
+   "venue": "Within Region XII (specific venue via separate issuance)",
+   "audience": "Selected Class Advisers",
+   "memoNumbers": [
+    "RM No. 119, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-24",
+   "endDate": "2026-10-25",
+   "title": "English Lesson Plans and Instructional Slide Decks for Key Stages 2 and 3 — Prework Activity",
+   "venue": "Within Region XII (specific venue via separate issuance)",
+   "audience": "Program Management Team (Class Advisers)",
+   "memoNumbers": [
+    "RM No. 122, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-24",
+   "endDate": "2026-10-25",
+   "title": "Validation and Finalization of the Instructional Learning Modules for English — Special Program in Journalism (SPJ)",
+   "venue": "To be announced (via separate issuance)",
+   "audience": "Identified SDO personnel involved in the Special Program in Journalism (see memorandum)",
+   "memoNumbers": [
+    "RM No. 134, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-10-29",
+   "endDate": "2026-10-31",
+   "title": "Revision and Finalization of Interactive Video Lessons in Kindergarten and Araling Panlipunan — Evaluation and Quality Assurance",
+   "venue": "To be announced (via separate advisory)",
+   "audience": "Kindergarten and Araling Panlipunan teacher-developers and LR evaluators (230 participants; see memorandum)",
+   "memoNumbers": [
+    "RM No. 132, s. 2026"
    ]
   },
   {
@@ -601,6 +723,16 @@
    ]
   },
   {
+   "startDate": "2026-11-05",
+   "endDate": "2026-11-06",
+   "title": "MEP Progress Monitoring and Technical Assistance — Sarangani and General Santos City SDOs",
+   "venue": "Sarangani and General Santos City",
+   "audience": "Division MEP Coordinators and CLMD EPS (10 participants)",
+   "memoNumbers": [
+    "RM No. 154, s. 2026"
+   ]
+  },
+  {
    "startDate": "2026-11-07",
    "endDate": "2026-11-08",
    "title": "Unified Slide Decks for MAPEH Key Stages 2 and 3 — Validation Workshop",
@@ -611,6 +743,16 @@
    ]
   },
   {
+   "startDate": "2026-11-07",
+   "endDate": "2026-11-08",
+   "title": "Mathematics Lesson Exemplars, Instructional Slides, and Test Items — Development Workshop (Key Stages 1-2)",
+   "venue": "Within Region XII (specific venue via separate issuance)",
+   "audience": "Selected Teachers and Master Teachers (Key Stages 1-2)",
+   "memoNumbers": [
+    "RM No. 119, s. 2026"
+   ]
+  },
+  {
    "startDate": "2026-11-09",
    "endDate": "2026-11-11",
    "title": "SPSTEM Structured Pedagogy Finalization Workshop — Key Stage 2",
@@ -618,6 +760,16 @@
    "audience": "Key Stage 2 participants identified in the memorandum",
    "memoNumbers": [
     "RM No. 003, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-12",
+   "endDate": "2026-11-13",
+   "title": "MEP Progress Monitoring and Technical Assistance — Cotabato and Kidapawan City SDOs",
+   "venue": "Cotabato and Kidapawan City",
+   "audience": "Division MEP Coordinators and CLMD EPS (10 participants)",
+   "memoNumbers": [
+    "RM No. 154, s. 2026"
    ]
   },
   {
@@ -641,6 +793,26 @@
    ]
   },
   {
+   "startDate": "2026-11-14",
+   "endDate": "2026-11-15",
+   "title": "English Lesson Plans and Instructional Slide Decks for Key Stages 2 and 3 — Development and Quality Assurance",
+   "venue": "Within Region XII (specific venue via separate issuance)",
+   "audience": "Selected Teachers and Master Teachers (Key Stages 2-3)",
+   "memoNumbers": [
+    "RM No. 122, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-16",
+   "endDate": "2026-11-18",
+   "title": "Tiered ARAL Storybooks and Numeracy Worksheets for Differentiated Instruction — Finalization Workshop",
+   "venue": "DepEd Ecotech Center, Cebu City",
+   "audience": "Writer and illustrator school heads from South Cotabato, General Santos, Sarangani, and Cotabato SDOs",
+   "memoNumbers": [
+    "CLMD-2026-216"
+   ]
+  },
+  {
    "startDate": "2026-11-17",
    "endDate": "2026-11-19",
    "title": "SPSTEM Structured Pedagogy Finalization Workshop — Key Stage 3",
@@ -661,6 +833,26 @@
    ]
   },
   {
+   "startDate": "2026-11-19",
+   "endDate": "2026-11-20",
+   "title": "MEP Progress Monitoring and Technical Assistance — South Cotabato and Koronadal City SDOs",
+   "venue": "South Cotabato and Koronadal City",
+   "audience": "Division MEP Coordinators and CLMD EPS (10 participants)",
+   "memoNumbers": [
+    "RM No. 154, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-21",
+   "endDate": "2026-11-22",
+   "title": "Mathematics Lesson Exemplars, Instructional Slides, and Test Items — Validation and Finalization (Key Stages 1-4)",
+   "venue": "Within Region XII (specific venue via separate issuance)",
+   "audience": "Same participants as during the Development Phase",
+   "memoNumbers": [
+    "RM No. 119, s. 2026"
+   ]
+  },
+  {
    "startDate": "2026-11-25",
    "endDate": "2026-11-27",
    "title": "Environmental Education Integration Lesson Guides — Finalization Workshop",
@@ -668,6 +860,26 @@
    "audience": "Identified Region XII EPS and school-head participants",
    "memoNumbers": [
     "RM No. 026, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-26",
+   "endDate": "2026-11-27",
+   "title": "MEP Progress Monitoring and Technical Assistance — Sultan Kudarat and Tacurong City SDOs",
+   "venue": "Sultan Kudarat and Tacurong City",
+   "audience": "Division MEP Coordinators and CLMD EPS (10 participants)",
+   "memoNumbers": [
+    "RM No. 154, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-11-28",
+   "endDate": "2026-11-29",
+   "title": "English Lesson Plans and Instructional Slide Decks for Key Stages 2 and 3 — Finalization",
+   "venue": "Within Region XII (specific venue via separate issuance)",
+   "audience": "Same participants as during the Development Phase",
+   "memoNumbers": [
+    "RM No. 122, s. 2026"
    ]
   },
   {
@@ -709,6 +921,26 @@
    "audience": "Official division participants described in the memorandum",
    "memoNumbers": [
     "CLMD-2026-198"
+   ]
+  },
+  {
+   "startDate": "2026-12-13",
+   "endDate": "2026-12-16",
+   "title": "SY 2026-2027 Regional Schools Press Conference (RSPC)",
+   "venue": "Hosted by the Schools Division Office of Tacurong City (Day 0, Dec 13 — billeting and contest laptop checking)",
+   "audience": "Qualified school journalists and delegation officials from all SDOs; qualifiers advance to the 2026 NSPC",
+   "memoNumbers": [
+    "RM No. 123, s. 2026"
+   ]
+  },
+  {
+   "startDate": "2026-12-16",
+   "endDate": "2026-12-17",
+   "title": "Madrasah Education Program — Year-End Program Implementation Review and Planning Workshop for CY 2027",
+   "venue": "Within South Cotabato or General Santos City (specific venue via separate memorandum)",
+   "audience": "3 participants per SDO (Division MEP Coordinator and school heads) plus 6 RO/CLMD EPS",
+   "memoNumbers": [
+    "RM No. 154, s. 2026"
    ]
   }
  ]
