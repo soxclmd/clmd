@@ -1,5 +1,5 @@
 {
-  "content_version": "2026.10.10.0910",
+  "content_version": "2026.10.12.0142",
   "last_updated": "2026-10-04",
   "minimum_app_version": "1.0.0",
   "maintenance_mode": false,
@@ -11,8 +11,8 @@
     },
     "events": {
       "path": "assets/data/events.json",
-      "sha256": "a65bb00103ea2c71fa955f8e84ad0559d36a8116da8ccacf80d0743d69d0327e",
-      "bytes": 38890
+      "sha256": "8642b70a2a38e6af505ff8605b795fad58641496e513be758c11e19d865493db",
+      "bytes": 38860
     },
     "memoranda": {
       "path": "assets/data/advisories.json",
