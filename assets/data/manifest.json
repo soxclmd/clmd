@@ -1,13 +1,13 @@
 {
-  "content_version": "2026.10.14.0004",
+  "content_version": "2026.10.14.0005",
   "last_updated": "2026-10-14",
   "minimum_app_version": "1.0.0",
   "maintenance_mode": false,
   "files": {
     "news": {
       "path": "assets/data/news.json",
-      "sha256": "a1b82d925d9ea747675a727f6fcf17b3ac9629a402601e05182f81bfcd5f11d4",
-      "bytes": 71964
+      "sha256": "28962549d7ff97518cbce2f4198bc5a0ea49dbf04dfc0991a16c9a1e94391e18",
+      "bytes": 74959
     },
     "events": {
       "path": "assets/data/events.json",
