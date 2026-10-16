@@ -239,7 +239,7 @@ var portals=[
 {icon:'📚',title:'DepEd LRMDS',desc:'Learning Resources Management and Development System — official repository of curriculum guides and instructional materials.',url:'https://lrmds.deped.gov.ph/'}];
 var grid=document.getElementById('guidesGrid');if(!grid)return;
 var card=function(g){return '<a class="guide-card" href="'+(g.file||g.url)+'" target="_blank" rel="noopener"><span class="guide-icon" aria-hidden="true">'+g.icon+'</span><strong>'+g.title+'</strong><span class="guide-desc">'+g.desc+'</span><span class="guide-open">'+(g.file?'Open PDF ↗':'Visit portal ↗')+'</span></a>'};
-var empty=curriculumGuides.length?'':'<div class="guides-empty">No regional curriculum guides posted yet — uploaded guides will appear here automatically.</div>';
+var empty='';
 grid.innerHTML=empty+curriculumGuides.map(card).join('')+portals.map(card).join('');})();
 </script>
 <script>
@@ -267,5 +267,5 @@ function sync(){
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',sync);else sync();
 })();
-</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b40f477dfd90d1',t:'MTc5MjEyMjIxMA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b4156fa82d61ec',t:'MTc5MjEyMjQ2Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
