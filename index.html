@@ -93,10 +93,11 @@ e.preventDefault();
 var w=window.open('','_blank');
 if(!w){alert('Please allow pop-ups for this site to open the Memo Archive.');return;}
 w.document.write('<p style="font:15px system-ui,sans-serif;padding:26px;color:#444">Loading Memo Archive\u2026</p>');
-var BASE=location.href.replace(/[^/]*$/,'');
+var BASE=location.href.replace(/[^/]*$/,'');var EVMAP={};
 function build(list){
 list.sort(function(a,b){return String(b.date||'').localeCompare(String(a.date||''))||String(a.title).localeCompare(String(b.title));});
 var data=JSON.stringify(list).replace(/</g,'\\u003c');
+var evd=JSON.stringify(EVMAP).replace(/</g,'\\u003c');
 return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Memo Archive \u2014 DepEd Region XII CLMD</title><style>'
 +'body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#f5f3f8;color:#241b2e}'
 +'header{background:linear-gradient(145deg,#4d1765,#2c0e3a);color:#fff;padding:26px 20px}'
@@ -110,29 +111,41 @@ return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="v
 +'.num{flex:none;min-width:124px;padding:7px 10px;border-radius:9px;background:#f7f0fa;color:#4d1765;font-size:12px;font-weight:900;text-align:center}'
 +'.meta{flex:1;min-width:0}.meta strong{display:block;font-size:14px;line-height:1.35}.meta span{font-size:12px;color:#7a6c8c}'
 +'.open{flex:none;padding:8px 14px;border-radius:18px;background:#4d1765;color:#fff;font-size:12px;font-weight:700;text-decoration:none;white-space:nowrap}'
-+'.open:hover{background:#3a114c}'
++'.open:hover{background:#3a114c}.pend{flex:none;padding:8px 12px;border-radius:18px;background:#efe9f5;color:#7a6c8c;font-size:11.5px;font-weight:700;white-space:nowrap}'
 +'.empty{padding:24px;text-align:center;color:#7a6c8c;font-size:14px}'
++'.tag{flex:none;padding:6px 11px;border-radius:18px;font-size:11px;font-weight:800;white-space:nowrap}.tag.done{background:#e5f4ec;color:#1d7a4c}.tag.soon{background:#e8f0fb;color:#2960b5}'
++'.chips{display:flex;gap:6px;margin:0 0 12px;flex-wrap:wrap}.chip{padding:8px 13px;border:1px solid #ddd3ea;border-radius:18px;background:#fff;font:inherit;font-size:12px;font-weight:700;color:#5c4b70;cursor:pointer}.chip.on{background:#4d1765;border-color:#4d1765;color:#fff}'
 +'@media(max-width:640px){.row{flex-wrap:wrap;gap:8px}.num{min-width:0}.open{margin-left:auto}}'
-+'</style></head><body><header><div class="wrap"><h1>\U0001F4D1 Memo Archive</h1><p>Every uploaded CLMD and regional memorandum, newest first. Completed activities are archived here for browsing \u2014 they are no longer featured on the main page.</p></div></header>'
-+'<div class="wrap"><div class="tools"><input id="q" type="search" placeholder="Search by memo number, title, or program\u2026"><span id="count"></span></div><div class="list" id="list"></div></div>'
-+'<script>var BASE='+JSON.stringify(BASE)+';var DATA='+data+';'
++'</style></head><body><header><div class="wrap"><h1>\U0001F4D1 Memo Archive</h1><p>Every uploaded CLMD and regional memorandum, newest first. Memos move into this archive automatically once their activity is implemented \u2014 nothing is moved by hand.</p></div></header>'
++'<div class="wrap"><div class="tools"><input id="q" type="search" placeholder="Search by memo number, title, or program\u2026"><span id="count"></span></div><div class="chips" id="chips"><button class="chip on" data-f="all">All</button><button class="chip" data-f="done">Implemented</button><button class="chip" data-f="soon">Upcoming</button></div><div class="list" id="list"></div></div>'
++'<script>var BASE='+JSON.stringify(BASE)+';var DATA='+data+';var EV='+evd+';'
 +'function esc(t){return String(t).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;")}'
 +'function fmt(d){var m=String(d||"").match(/(\\d{4})-(\\d{2})-(\\d{2})/);if(!m)return d||"";var mo=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];return mo[+m[2]-1]+" "+(+m[3])+", "+m[1]}'
 +'var list=document.getElementById("list"),count=document.getElementById("count"),q=document.getElementById("q");'
++'var CHECK=["assets/data/CLMD-2026-214.pdf","assets/data/CLMD-2026-215.pdf","assets/data/CLMD-2026-216.pdf","assets/data/CLMD-2026-217.pdf","assets/data/CLMD-2026-219.pdf","assets/data/CLMD-2026-221.pdf","assets/data/CLMD-2026-240.pdf","assets/data/RM-119-s2026.pdf","assets/data/RM-122-s2026.pdf","assets/data/RM-123-s2026.pdf","assets/data/RM-131-s2026.pdf","assets/data/RM-132-s2026.pdf","assets/data/RM-134-s2026.pdf","assets/data/RM-145-s2026.pdf","assets/data/RM-151-s2026.pdf","assets/data/RM-153-s2026.pdf","assets/data/RM-154-s2026.pdf"];var STATUS={};'
++'var TODAY=new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Manila"}).format(new Date());var FILTER="all";'
++'function stat(m){var d=EV[m.number]||m.date||"";if(!d)return "";return d<TODAY?"done":"soon";}'
 +'function render(){var s=(q.value||"").trim().toLowerCase();'
-+'var items=DATA.filter(function(m){return !s||((m.number+" "+m.title+" "+(m.program||"")+" "+(m.learningArea||"")).toLowerCase().indexOf(s)>-1)});'
-+'count.textContent=items.length+" memo"+(items.length===1?"":"s");'
++'var items=DATA.filter(function(m){if(FILTER!=="all"&&stat(m)!==FILTER)return false;return !s||((m.number+" "+m.title+" "+(m.program||"")+" "+(m.learningArea||"")).toLowerCase().indexOf(s)>-1)});'
++'var nd=DATA.filter(function(m){return stat(m)==="done"}).length;count.textContent=items.length+" memo"+(items.length===1?"":"s")+" \u00b7 "+nd+" implemented \u00b7 "+(DATA.length-nd)+" upcoming";'
 +'if(!items.length){list.innerHTML="<div class=\\"empty\\">No memos match that search.</div>";return}'
 +'list.innerHTML=items.map(function(m){var sub=[fmt(m.date),m.documentType,m.learningArea].filter(Boolean).join(" \u00b7 ");'
-+'return "<div class=\\"row\\"><span class=\\"num\\">"+esc(m.number)+"</span><div class=\\"meta\\"><strong>"+esc(m.title)+"</strong>"+(sub?"<span>"+esc(sub)+"</span>":"")+"</div><a class=\\"open\\" href=\\""+esc(BASE+m.file)+"\\" target=\\"_blank\\" rel=\\"noopener\\">Open PDF \u2197</a></div>"}).join("")}'
++'return "<div class=\\"row\\"><span class=\\"num\\">"+esc(m.number)+"</span><div class=\\"meta\\"><strong>"+esc(m.title)+"</strong>"+(sub?"<span>"+esc(sub)+"</span>":"")+"</div>"+(stat(m)==="done"?"<span class=\\"tag done\\">Implemented</span>":(stat(m)==="soon"?"<span class=\\"tag soon\\">Upcoming</span>":""))+(STATUS[m.file]==="missing"?"<span class=\\"pend\\">PDF pending upload</span>":(CHECK.indexOf(m.file)>-1&&STATUS[m.file]!=="ok"?"<span class=\\"pend\\">Checking\u2026</span>":"<a class=\\"open\\" href=\\""+esc(BASE+m.file)+"\\" target=\\"_blank\\" rel=\\"noopener\\">Open PDF \u2197</a>"))+"</div>"}).join("")}'
 +'render();q.addEventListener("input",render);'
++'document.getElementById("chips").addEventListener("click",function(e){var b=e.target.closest?e.target.closest(".chip"):null;if(!b)return;FILTER=b.getAttribute("data-f");Array.prototype.forEach.call(this.children,function(c){c.classList.toggle("on",c===b)});render();});'
++'CHECK.forEach(function(f){fetch(BASE+f,{method:"HEAD"}).then(function(r){STATUS[f]=r.ok?"ok":"missing";render();}).catch(function(){STATUS[f]="missing";render();});});'
 +'<\/script></body></html>';
 }
 function show(list){w.document.open();w.document.write(build(list));w.document.close();}
-fetch('assets/data/advisories.json',{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(a){
+function loadJson(u){return fetch(u,{cache:'no-store'}).then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});}
+loadJson('assets/data/advisories.json').then(function(a){
 var map={};MEMO_SNAPSHOT.forEach(function(m){map[m.number]=m;});
 if(a&&a.length)a.forEach(function(x){if(x&&x.number&&x.file)map[x.number]=x;});
+return loadJson('assets/data/events.json').then(function(evData){
+var items=Array.isArray(evData)?evData:((evData&&evData.items)||[]);
+items.forEach(function(ev){if(!ev||!ev.memoNumbers)return;var end=String(ev.endDate||ev.startDate||'');(ev.memoNumbers||[]).forEach(function(n){if(end&&(!EVMAP[n]||end>EVMAP[n]))EVMAP[n]=end;});});
 show(Object.keys(map).map(function(k){return map[k];}));
+});
 }).catch(function(){show(MEMO_SNAPSHOT.slice());});
 });
 })();</script>
@@ -323,5 +336,5 @@ function sync(){
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',sync);else sync();
 })();
-</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b57f8cb8538cae',t:'MTc5MjEzNzI5NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b59c78cd4a04ef',t:'MTc5MjEzODQ3OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
