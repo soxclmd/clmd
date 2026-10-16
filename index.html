@@ -116,7 +116,7 @@ return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="v
 +'.tag{flex:none;padding:6px 11px;border-radius:18px;font-size:11px;font-weight:800;white-space:nowrap}.tag.done{background:#e5f4ec;color:#1d7a4c}.tag.soon{background:#e8f0fb;color:#2960b5}'
 +'.chips{display:flex;gap:6px;margin:0 0 12px;flex-wrap:wrap}.chip{padding:8px 13px;border:1px solid #ddd3ea;border-radius:18px;background:#fff;font:inherit;font-size:12px;font-weight:700;color:#5c4b70;cursor:pointer}.chip.on{background:#4d1765;border-color:#4d1765;color:#fff}'
 +'@media(max-width:640px){.row{flex-wrap:wrap;gap:8px}.num{min-width:0}.open{margin-left:auto}}'
-+'</style></head><body><header><div class="wrap"><h1>\U0001F4D1 Memo Archive</h1><p>Every uploaded CLMD and regional memorandum, newest first. Memos move into this archive automatically once their activity is implemented \u2014 nothing is moved by hand.</p></div></header>'
++'</style></head><body><header><div class="wrap"><h1>Memo Archive</h1><p>Every uploaded CLMD and regional memorandum, newest first. Memos move into this archive automatically once their activity is implemented \u2014 nothing is moved by hand.</p></div></header>'
 +'<div class="wrap"><div class="tools"><input id="q" type="search" placeholder="Search by memo number, title, or program\u2026"><span id="count"></span></div><div class="chips" id="chips"><button class="chip on" data-f="all">All</button><button class="chip" data-f="done">Implemented</button><button class="chip" data-f="soon">Upcoming</button></div><div class="list" id="list"></div></div>'
 +'<script>var BASE='+JSON.stringify(BASE)+';var DATA='+data+';var EV='+evd+';'
 +'function esc(t){return String(t).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;")}'
@@ -201,7 +201,7 @@ return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="v
 +'.more{margin:16px 0 0;display:grid;gap:10px}'
 +'.more img{width:100%;max-height:380px;object-fit:cover;border-radius:12px;background:#efe9f5}'
 +'@media(max-width:640px){#reader{padding:16px}#reader h2{font-size:19px}}'
-+'</style></head><body><header><div class="wrap"><h1>\U0001F4F0 News Archive</h1><p>Every CLMD story ever published, newest first and grouped by month. Click any story to read the full article with photos.</p></div></header>'
++'</style></head><body><header><div class="wrap"><h1>News Archive</h1><p>Every CLMD story ever published, newest first and grouped by month. Click any story to read the full article with photos.</p></div></header>'
 +'<div class="wrap"><div class="tools"><input id="q" type="search" placeholder="Search stories by title, category, or keyword\u2026"><span id="count"></span></div>'
 +'<div id="reader"></div><div id="browse"></div></div>'
 +'<script>var DATA='+data+';'
@@ -440,5 +440,5 @@ function sync(){
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',sync);else sync();
 })();
-</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b5e528cec184d6',t:'MTc5MjE0MTQ1Ng=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b5eb07efbfa0b0',t:'MTc5MjE0MTY5Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
