@@ -150,6 +150,7 @@ show(Object.keys(map).map(function(k){return map[k];}));
 });
 })();</script>
   <script>(function(){
+function newsArchiveInit(){
 var nab=document.getElementById('newsArchiveBtn');
 if(!nab)return;
 nab.addEventListener('click',function(e){
@@ -246,6 +247,8 @@ if(items&&items.length){show(prep(items));return;}
 show(prep(window.__FRESH_STORIES||[]));
 }).catch(function(){show(prep(window.__FRESH_STORIES||[]));});
 });
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',newsArchiveInit);else newsArchiveInit();
 })();</script>
   <section class="shell" id="about">
     <div class="section-title"><h2>About CLMD</h2><span>Who we are and what we do for Region XII learners</span></div>
@@ -437,5 +440,5 @@ function sync(){
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',sync);else sync();
 })();
-</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b5d53e58008c2c',t:'MTc5MjE0MDgwNA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b5ddcd49cf08c0',t:'MTc5MjE0MTE1NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
